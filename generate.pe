@@ -1,0 +1,2 @@
+Open("TeleSys.sfd")
+Generate("TeleSys.ttf")
