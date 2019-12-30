@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1577574662
-ModificationTime: 1577744559
+ModificationTime: 1577747539
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 0
 FitToEm: 1
-WinInfo: 286 22 12
+WinInfo: 330 22 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -114,7 +114,6 @@ SplineSet
  40 30 l 1
  40 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: numbersign
@@ -161,7 +160,6 @@ SplineSet
  30 40 l 1
  40 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: percent
@@ -235,7 +233,6 @@ SplineSet
  30 30 l 1
  40 30 l 1x440440
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: ampersand
@@ -286,7 +283,6 @@ SplineSet
  20 70 l 1
  30 70 l 1xed
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: parenleft
@@ -318,7 +314,6 @@ SplineSet
  60 0 l 1
  60 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: parenright
@@ -352,7 +347,6 @@ SplineSet
  50 90 l 1
  50 20 l 1xc8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: plus
@@ -378,7 +372,6 @@ SplineSet
  70 60 l 1
  70 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: comma
@@ -402,7 +395,6 @@ SplineSet
  50 30 l 1
  50 0 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: period
@@ -420,7 +412,6 @@ SplineSet
  50 30 l 1
  50 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: slash
@@ -456,7 +447,6 @@ SplineSet
  50 90 l 25
  40 90 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: zero
@@ -492,7 +482,6 @@ SplineSet
  50 20 l 1
  50 90 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: one
@@ -516,7 +505,6 @@ SplineSet
  50 100 l 1
  50 10 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: two
@@ -564,7 +552,6 @@ SplineSet
  20 20 l 25
  70 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: three
@@ -606,7 +593,6 @@ SplineSet
  70 50 l 1
  70 20 l 1x6e
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: four
@@ -638,7 +624,6 @@ SplineSet
  70 40 l 1
  70 30 l 1x35
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: five
@@ -672,7 +657,6 @@ SplineSet
  70 50 l 1
  70 30 l 1x2d
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: six
@@ -713,7 +697,6 @@ SplineSet
  20 20 l 1xc9
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: seven
@@ -745,7 +728,6 @@ SplineSet
  70 100 l 1
  70 80 l 1xc2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: eight
@@ -794,7 +776,6 @@ SplineSet
  20 20 l 1
  50 20 l 1x9280
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: nine
@@ -835,7 +816,6 @@ SplineSet
  20 50 l 1
  50 50 l 1x39
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: colon
@@ -858,7 +838,6 @@ SplineSet
  50 40 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: semicolon
@@ -887,7 +866,6 @@ SplineSet
  50 40 l 1
  50 10 l 1xe8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: less
@@ -937,28 +915,26 @@ SplineSet
  70 20 l 1
  70 10 l 1x4004
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: equal
 Encoding: 61 61 23
 Width: 80
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 70 60 m 1
- -0 60.1640625 l 1
- -0 70.1640625 l 1
+ -0 60 l 1
+ -0 70 l 1
  70 70 l 1
  70 60 l 1
 70 40 m 1
- -0 40.1640625 l 1
- -0 50.1640625 l 1
+ -0 40 l 1
+ -0 50 l 1
  70 50 l 1
  70 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: greater
@@ -1008,7 +984,6 @@ SplineSet
  70 60 l 1
  70 50 l 1x0a04
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: question
@@ -1047,7 +1022,6 @@ SplineSet
  40 30 l 1
  40 10 l 1xc4
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -1069,7 +1043,6 @@ SplineSet
  60 0 l 1
  60 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -1091,13 +1064,12 @@ SplineSet
  50 120 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: underscore
 Encoding: 95 95 28
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 10<0 80>
 LayerCount: 2
 Fore
@@ -1108,7 +1080,6 @@ SplineSet
  80 -20 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -1151,13 +1122,12 @@ SplineSet
  60 0 l 1
  60 -10 l 1xe2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bar
 Encoding: 124 124 30
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50>
 VStem: 30 20<-30 130>
 LayerCount: 2
@@ -1169,7 +1139,6 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceright
@@ -1212,7 +1181,6 @@ SplineSet
  70 50 l 1
  70 40 l 1xe2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: degree
@@ -1243,7 +1211,6 @@ SplineSet
  30 80 l 1
  50 80 l 1xb8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: plusminus
@@ -1274,7 +1241,6 @@ SplineSet
  70 30 l 1
  70 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: registered
@@ -1332,7 +1298,6 @@ SplineSet
  60 20 l 1x4084
  60 30 l 1x8008
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: copyright
@@ -1394,7 +1359,6 @@ SplineSet
  60 50 l 1
  60 40 l 1x1008
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: logicalnot
@@ -1414,7 +1378,6 @@ SplineSet
  70 70 l 1
  70 40 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -1437,7 +1400,6 @@ SplineSet
  30 100 l 1
  30 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dollar
@@ -1495,7 +1457,6 @@ SplineSet
  70 40 l 1
  70 20 l 1x2402
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -1513,7 +1474,6 @@ SplineSet
  50 100 l 1
  50 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -1526,37 +1486,36 @@ CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
-75 40 m 1xe8
- 55 40 l 1
- 55 30 l 1xe8
- 65 30 l 1
- 65 20 l 1
- 45 20 l 1
- 45 30 l 1
- 35 30 l 1
- 35 20 l 1
- 15 20 l 1
- 15 30 l 1xf4
- 25 30 l 1
- 25 40 l 1
- 5 40 l 1
- 5 50 l 1
- 25 50 l 1
- 25 60 l 1xe8
- 15 60 l 1
- 15 70 l 1
- 35 70 l 1
- 35 60 l 1
- 45 60 l 1
- 45 70 l 1
- 65 70 l 1
- 65 60 l 1xf4
- 55 60 l 1
- 55 50 l 1
- 75 50 l 1
- 75 40 l 1xe8
+70 40 m 1xe8
+ 50 40 l 1
+ 50 30 l 1xe8
+ 60 30 l 1
+ 60 20 l 1
+ 40 20 l 1
+ 40 30 l 1
+ 30 30 l 1
+ 30 20 l 1
+ 10 20 l 1
+ 10 30 l 1xf4
+ 20 30 l 1
+ 20 40 l 1
+ -0 40 l 1
+ -0 50 l 1
+ 20 50 l 1
+ 20 60 l 1xe8
+ 10 60 l 1
+ 10 70 l 1
+ 30 70 l 1
+ 30 60 l 1
+ 40 60 l 1
+ 40 70 l 1
+ 60 70 l 1
+ 60 60 l 1xf4
+ 50 60 l 1
+ 50 50 l 1
+ 70 50 l 1
+ 70 40 l 1xe8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: hyphen
@@ -1573,7 +1532,6 @@ SplineSet
  70 60 l 1
  70 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: at
@@ -1614,7 +1572,6 @@ SplineSet
  40 40 l 1
  50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: A
@@ -1649,7 +1606,6 @@ SplineSet
  20 50 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: B
@@ -1686,7 +1642,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: C
@@ -1720,7 +1675,6 @@ SplineSet
  70 40 l 1
  70 20 l 1x4c
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: D
@@ -1755,7 +1709,6 @@ SplineSet
  40 30 l 1x8c
  50 30 l 1x8a
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: E
@@ -1782,7 +1735,6 @@ SplineSet
  70 20 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: F
@@ -1806,7 +1758,6 @@ SplineSet
  70 100 l 1
  70 90 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: G
@@ -1840,7 +1791,6 @@ SplineSet
  70 50 l 1
  70 10 l 1xdc
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: H
@@ -1866,7 +1816,6 @@ SplineSet
  70 100 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: I
@@ -1892,7 +1841,6 @@ SplineSet
  60 20 l 1
  60 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: J
@@ -1918,7 +1866,6 @@ SplineSet
  70 100 l 1
  70 20 l 1x78
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: K
@@ -1957,7 +1904,6 @@ SplineSet
  70 30 l 1
  70 10 l 1xf4
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: L
@@ -1977,7 +1923,6 @@ SplineSet
  70 20 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: M
@@ -2012,7 +1957,6 @@ SplineSet
  70 100 l 1
  70 10 l 1xbc
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: N
@@ -2045,7 +1989,6 @@ SplineSet
  40 70 l 25
  30 70 l 25
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: O
@@ -2076,7 +2019,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: P
@@ -2105,7 +2047,6 @@ SplineSet
  20 60 l 1
  50 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Q
@@ -2142,7 +2083,6 @@ SplineSet
  20 20 l 1x3a
  50 20 l 1x5a
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: R
@@ -2177,7 +2117,6 @@ SplineSet
  20 60 l 1
  50 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: S
@@ -2225,7 +2164,6 @@ SplineSet
  40 40 l 25
  50 40 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: T
@@ -2247,7 +2185,6 @@ SplineSet
  60 100 l 1
  60 90 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: U
@@ -2273,7 +2210,6 @@ SplineSet
  70 100 l 1
  70 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: V
@@ -2303,7 +2239,6 @@ SplineSet
  70 100 l 1
  70 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: W
@@ -2338,7 +2273,6 @@ SplineSet
  70 100 l 1
  70 40 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: X
@@ -2382,7 +2316,6 @@ SplineSet
  20 70 l 1
  10 70 l 1x68
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Y
@@ -2412,7 +2345,6 @@ SplineSet
  60 100 l 1
  60 60 l 1xe8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Z
@@ -2450,13 +2382,12 @@ SplineSet
  0 30 l 1
  0 10 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: backslash
 Encoding: 92 92 69
 Width: 80
-Flags: W
+Flags: HW
 HStem: -10 20<60 70> 90 20<0 10>
 VStem: 0 20<90 110> 10 20<70 90> 20 20<50 70> 30 20<30 50> 40 20<10 30> 50 20<-10 10>
 LayerCount: 2
@@ -2488,13 +2419,12 @@ SplineSet
  20 90 l 1xe0
  30 90 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 70
 Width: 80
-Flags: W
+Flags: HW
 HStem: 80 20<20 30 50 60> 80 10<10 20 60 70> 90 20<30 50>
 VStem: 10 20<80 90> 30 20<100 110> 50 20<80 90>
 LayerCount: 2
@@ -2518,13 +2448,12 @@ SplineSet
  70 90 l 1
  70 80 l 1x44
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: grave
 Encoding: 96 96 71
 Width: 80
-Flags: W
+Flags: HW
 HStem: 80 10<50 60> 90 20<30 40> 100 10<20 30>
 VStem: 30 20<90 100> 40 20<80 90>
 LayerCount: 2
@@ -2542,7 +2471,6 @@ SplineSet
  60 90 l 1
  60 80 l 1xa8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: a
@@ -2575,7 +2503,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: b
@@ -2604,7 +2531,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: c
@@ -2638,7 +2564,6 @@ SplineSet
  70 30 l 1
  70 20 l 1x4c
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: d
@@ -2667,7 +2592,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: e
@@ -2701,7 +2625,6 @@ SplineSet
  20 50 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: f
@@ -2731,7 +2654,6 @@ SplineSet
  70 60 l 1
  70 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: g
@@ -2764,7 +2686,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: h
@@ -2790,7 +2711,6 @@ SplineSet
  70 70 l 1
  70 10 l 1xd8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: i
@@ -2819,7 +2739,6 @@ SplineSet
  70 20 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: j
@@ -2848,7 +2767,6 @@ SplineSet
  60 80 l 1
  60 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: k
@@ -2886,7 +2804,6 @@ SplineSet
  70 30 l 1
  70 10 l 1xea
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: l
@@ -2910,7 +2827,6 @@ SplineSet
  70 20 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: m
@@ -2939,7 +2855,6 @@ SplineSet
  70 70 l 1
  70 10 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: n
@@ -2963,7 +2878,6 @@ SplineSet
  70 70 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: o
@@ -2994,7 +2908,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: p
@@ -3023,7 +2936,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: q
@@ -3052,7 +2964,6 @@ SplineSet
  20 20 l 1
  50 20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: r
@@ -3080,7 +2991,6 @@ SplineSet
  70 80 l 1
  70 60 l 1xa8
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: s
@@ -3114,7 +3024,6 @@ SplineSet
  70 40 l 1
  70 20 l 1x56
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: t
@@ -3144,7 +3053,6 @@ SplineSet
  70 20 l 1
  70 10 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u
@@ -3168,7 +3076,6 @@ SplineSet
  70 80 l 1
  70 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: v
@@ -3198,7 +3105,6 @@ SplineSet
  70 80 l 1
  70 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: w
@@ -3233,7 +3139,6 @@ SplineSet
  70 80 l 1
  70 30 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: x
@@ -3275,7 +3180,6 @@ SplineSet
  70 30 l 1
  70 10 l 1x4c
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: y
@@ -3311,7 +3215,6 @@ SplineSet
  70 80 l 1
  70 20 l 1xb9
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: z
@@ -3348,7 +3251,6 @@ SplineSet
  70 20 l 1
  70 10 l 1x40
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: asciitilde
@@ -3386,7 +3288,6 @@ SplineSet
  80 100 l 1x2280
  80 80 l 1x23
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: exclamdown
@@ -3417,7 +3318,6 @@ SplineSet
  50 70 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: cent
@@ -3459,7 +3359,6 @@ SplineSet
  70 40 l 1
  70 30 l 1x2280
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: sterling
@@ -3499,7 +3398,6 @@ SplineSet
  70 20 l 1
  70 10 l 1x65
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: currency
@@ -3547,7 +3445,6 @@ SplineSet
  30 50 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: yen
@@ -3589,7 +3486,6 @@ SplineSet
  70 40 l 1
  70 30 l 1x72
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: brokenbar
@@ -3612,7 +3508,6 @@ SplineSet
  50 30 l 1
  50 -20 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: section
@@ -3671,7 +3566,6 @@ SplineSet
  30 30 l 1
  50 30 l 1x1450
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dieresis
@@ -3694,7 +3588,6 @@ SplineSet
  30 110 l 1
  30 90 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ordfeminine
@@ -3732,7 +3625,6 @@ SplineSet
  30 60 l 1
  50 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: guillemotleft
@@ -3787,7 +3679,6 @@ SplineSet
  40 20 l 1
  40 10 l 1x4080
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni00AD
@@ -3804,7 +3695,6 @@ SplineSet
  70 70 l 1
  70 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: macron
@@ -3821,7 +3711,6 @@ SplineSet
  80 130 l 1
  80 120 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni00B2
@@ -3853,7 +3742,6 @@ SplineSet
  60 60 l 1
  60 50 l 1x42
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni00B3
@@ -3887,7 +3775,6 @@ SplineSet
  60 70 l 1
  60 60 l 1x51
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: acute
@@ -3911,7 +3798,6 @@ SplineSet
  60 120 l 1
  60 110 l 1xa8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: mu
@@ -3946,7 +3832,6 @@ SplineSet
  80 20 l 1
  80 10 l 1xe2
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: paragraph
@@ -3976,7 +3861,6 @@ SplineSet
  70 100 l 1
  70 90 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: periodcentered
@@ -3988,13 +3872,12 @@ VStem: 25 30<50 70>
 LayerCount: 2
 Fore
 SplineSet
-55 50 m 1
- 25 50 l 1
- 25 70 l 1
- 55 70 l 1
- 55 50 l 1
+50 50 m 1
+ 20 50 l 1
+ 20 70 l 1
+ 50 70 l 1
+ 50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: cedilla
@@ -4020,7 +3903,6 @@ SplineSet
  60 0 l 1
  60 -10 l 1x48
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni00B9
@@ -4042,7 +3924,6 @@ SplineSet
  50 100 l 1
  50 50 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ordmasculine
@@ -4078,7 +3959,6 @@ SplineSet
  70 40 l 1
  70 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: guillemotright
@@ -4133,7 +4013,6 @@ SplineSet
  40 40 l 1
  40 30 l 1x1080
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: onequarter
@@ -4200,7 +4079,6 @@ SplineSet
  40 40 l 1
  50 40 l 1x4812
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: onehalf
@@ -4264,7 +4142,6 @@ SplineSet
  80 10 l 1
  80 0 l 1x6002
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: threequarters
@@ -4344,7 +4221,6 @@ SplineSet
  30 60 l 1x0488
  40 60 l 1x0484
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: questiondown
@@ -4383,13 +4259,12 @@ SplineSet
  50 70 l 1
  50 50 l 1x32
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF100000
 Encoding: 9472 9472 125
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 80>
 LayerCount: 2
 Fore
@@ -4400,13 +4275,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2501
 Encoding: 9473 9473 126
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 80>
 LayerCount: 2
 Fore
@@ -4417,13 +4291,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF110000
 Encoding: 9474 9474 127
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40>
 VStem: 30 10<-30 130>
 LayerCount: 2
@@ -4435,13 +4308,12 @@ SplineSet
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2503
 Encoding: 9475 9475 128
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50>
 VStem: 30 20<-30 130>
 LayerCount: 2
@@ -4453,13 +4325,12 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2504
 Encoding: 9476 9476 129
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<10 20 30 40 50 60>
 VStem: 10 10<50 60> 30 10<50 60> 50 10<50 60>
 CounterMasks: 1 70
@@ -4482,13 +4353,12 @@ SplineSet
  40 60 l 1
  40 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2505
 Encoding: 9477 9477 130
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<10 20 30 40 50 60>
 VStem: 10 10<40 60> 30 10<40 60> 50 10<40 60>
 CounterMasks: 1 70
@@ -4511,13 +4381,12 @@ SplineSet
  40 60 l 1
  40 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2506
 Encoding: 9478 9478 131
 Width: 80
-Flags: W
+Flags: HW
 VStem: 30 10<-20 10 30 60 80 110>
 LayerCount: 2
 Fore
@@ -4538,13 +4407,12 @@ SplineSet
  40 60 l 1
  40 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2507
 Encoding: 9479 9479 132
 Width: 80
-Flags: W
+Flags: HW
 HStem: -20 30<30 50> 30 30<30 50> 80 30<30 50>
 VStem: 30 20<-20 10 30 60 80 110>
 CounterMasks: 1 e0
@@ -4567,13 +4435,12 @@ SplineSet
  50 60 l 1
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2508
 Encoding: 9480 9480 133
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 10 20 30 40 50 60 70>
 VStem: 0 10<50 60> 20 10<50 60> 40 10<50 60> 60 10<50 60>
 LayerCount: 2
@@ -4600,13 +4467,12 @@ SplineSet
  50 60 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2509
 Encoding: 9481 9481 134
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 10 20 30 40 50 60 70>
 VStem: 0 10<40 60> 20 10<40 60> 40 10<40 60> 60 10<40 60>
 LayerCount: 2
@@ -4633,13 +4499,12 @@ SplineSet
  50 60 l 1
  50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni250A
 Encoding: 9482 9482 135
 Width: 80
-Flags: W
+Flags: HW
 HStem: -20 20<30 40> 20 20<30 40> 60 20<30 40> 100 20<30 40>
 VStem: 30 10<-20 0 20 40 60 80 100 120>
 LayerCount: 2
@@ -4666,13 +4531,12 @@ SplineSet
  40 80 l 1
  40 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni250B
 Encoding: 9483 9483 136
 Width: 80
-Flags: W
+Flags: HW
 HStem: -20 20<30 50> 20 20<30 50> 60 20<30 50> 100 20<30 50>
 VStem: 30 20<-20 0 20 40 60 80 100 120>
 LayerCount: 2
@@ -4699,13 +4563,12 @@ SplineSet
  50 80 l 1
  50 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF010000
 Encoding: 9484 9484 137
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<40 80>
 VStem: 30 10<-30 50>
 LayerCount: 2
@@ -4719,13 +4582,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni250D
 Encoding: 9485 9485 138
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<40 80>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -4739,13 +4601,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni250E
 Encoding: 9486 9486 139
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<50 80>
 VStem: 30 20<-30 50>
 LayerCount: 2
@@ -4759,13 +4620,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni250F
 Encoding: 9487 9487 140
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 41 20<50 80>
 VStem: 30 20<-30 41>
 LayerCount: 2
@@ -4779,13 +4639,12 @@ SplineSet
  80 61 l 1
  80 41 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF030000
 Encoding: 9488 9488 141
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<0 30>
 VStem: 30 10<-30 50>
 LayerCount: 2
@@ -4799,13 +4658,12 @@ SplineSet
  40 60 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2511
 Encoding: 9489 9489 142
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -4819,13 +4677,12 @@ SplineSet
  40 60 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2512
 Encoding: 9490 9490 143
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<0 30>
 VStem: 30 20<-30 50>
 LayerCount: 2
@@ -4839,13 +4696,12 @@ SplineSet
  50 60 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2513
 Encoding: 9491 9491 144
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30>
 VStem: 30 20<-30 40>
 LayerCount: 2
@@ -4859,13 +4715,12 @@ SplineSet
  50 60 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF020000
 Encoding: 9492 9492 145
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<40 80>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -4879,13 +4734,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2515
 Encoding: 9493 9493 146
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<40 80>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -4899,13 +4753,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2516
 Encoding: 9494 9494 147
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<50 80>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -4919,13 +4772,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2517
 Encoding: 9495 9495 148
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<50 80>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -4939,13 +4791,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF040000
 Encoding: 9496 9496 149
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 30>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -4959,13 +4810,12 @@ SplineSet
  40 130 l 1
  40 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2519
 Encoding: 9497 9497 150
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -4979,13 +4829,12 @@ SplineSet
  40 130 l 1
  40 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni251A
 Encoding: 9498 9498 151
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<-1 29>
 VStem: 29 20<60 130>
 LayerCount: 2
@@ -4999,13 +4848,12 @@ SplineSet
  50 130 l 1
  49 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni251B
 Encoding: 9499 9499 152
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -5019,13 +4867,12 @@ SplineSet
  50 130 l 1
  50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF080000
 Encoding: 9500 9500 153
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<40 80>
 VStem: 30 10<-30 50 60 130>
 LayerCount: 2
@@ -5041,13 +4888,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni251D
 Encoding: 9501 9501 154
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<40 80>
 VStem: 30 10<-30 40 60 130>
 LayerCount: 2
@@ -5063,13 +4909,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni251E
 Encoding: 9502 9502 155
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<50 80>
 VStem: 30 20<60 130> 30 10<-30 50>
 LayerCount: 2
@@ -5085,79 +4930,75 @@ SplineSet
  80 60 l 1
  80 50 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni251F
 Encoding: 9503 9503 156
 Width: 80
-Flags: W
-HStem: -30 21G<30 50> 50.208 10<50 80>
+Flags: HW
+HStem: -30 21G<30 50> 50 10<50 80>
 VStem: 30 20<-30 50.208> 30 10<60.208 130>
 LayerCount: 2
 Fore
 SplineSet
-80 50.2080078125 m 1xd0
- 50 50.2080078125 l 1
+80 50 m 1xd0
+ 50 50 l 1
  50 -30 l 1
  30 -30 l 1xe0
  30 130 l 1
  40 130 l 1
- 40 60.2080078125 l 1
- 80 60.2080078125 l 1
- 80 50.2080078125 l 1xd0
+ 40 60 l 1
+ 80 60 l 1
+ 80 50 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2520
 Encoding: 9504 9504 157
 Width: 80
-Flags: W
-HStem: -30 21G<30 50> 50.208 10<50 80>
+Flags: HW
+HStem: -30 21G<30 50> 50 10<50 80>
 VStem: 30 20<-30 50.208 60.208 130>
 LayerCount: 2
 Fore
 SplineSet
-80 50.2080078125 m 1
- 50 50.2080078125 l 1
+80 50 m 1
+ 50 50 l 1
  50 -30 l 1
  30 -30 l 1
  30 130 l 1
  50 130 l 1
- 50 60.2080078125 l 1
- 80 60.2080078125 l 1
- 80 50.2080078125 l 1
+ 50 60 l 1
+ 80 60 l 1
+ 80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2521
 Encoding: 9505 9505 158
 Width: 80
-Flags: W
-HStem: -30 21G<30 40> 40.1641 20<50 80>
+Flags: HW
+HStem: -30 21G<30 40> 40 20<50 80>
 VStem: 30 20<60.1641 130> 30 10<-30 40.1641>
 LayerCount: 2
 Fore
 SplineSet
-80 40.1640625 m 1xe0
- 40 40.1640625 l 1
+80 40 m 1xe0
+ 40 40 l 1
  40 -30 l 1
  30 -30 l 1xd0
  30 130 l 1
  50 130 l 1
- 50 60.1640625 l 1
- 80 60.1640625 l 1
- 80 40.1640625 l 1xe0
+ 50 60 l 1
+ 80 60 l 1
+ 80 40 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2522
 Encoding: 9506 9506 159
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<50 80>
 VStem: 30 20<-30 40> 30 10<60 130>
 LayerCount: 2
@@ -5173,125 +5014,119 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2523
 Encoding: 9507 9507 160
 Width: 80
-Flags: W
-HStem: -30 21G<30 50> 40.1641 20<50 80>
+Flags: HW
+HStem: -30 21G<30 50> 40 20<50 80>
 VStem: 30 20<-30 40.1641 60.1641 130>
 LayerCount: 2
 Fore
 SplineSet
-80 40.1640625 m 1
- 50 40.1640625 l 1
+80 40 m 1
+ 50 40 l 1
  50 -30 l 1
  30 -30 l 1
  30 130 l 1
  50 130 l 1
- 50 60.1640625 l 1
- 80 60.1640625 l 1
- 80 40.1640625 l 1
+ 50 60 l 1
+ 80 60 l 1
+ 80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF090000
 Encoding: 9508 9508 161
 Width: 80
-Flags: W
-HStem: -30 21G<30 40> 50.208 10<0 30>
+Flags: HW
+HStem: -30 21G<30 40> 50 10<0 30>
 VStem: 30 10<-30 50.208 60.208 130>
 LayerCount: 2
 Fore
 SplineSet
 40 -30 m 1
  30 -30 l 1
- 30 50.2080078125 l 1
- 0 50.2080078125 l 1
- 0 60.2080078125 l 1
- 30 60.2080078125 l 1
+ 30 50 l 1
+ 0 50 l 1
+ 0 60 l 1
+ 30 60 l 1
  30 130 l 1
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2525
 Encoding: 9509 9509 162
 Width: 80
-Flags: W
-HStem: -30 21G<30 40> 40.1641 20<0 30>
+Flags: HW
+HStem: -30 21G<30 40> 40 20<0 30>
 VStem: 30 10<-30 40.1641 60.1641 130>
 LayerCount: 2
 Fore
 SplineSet
 40 -30 m 1
  30 -30 l 1
- 30 40.1640625 l 1
- 0 40.1640625 l 1
- 0 60.1640625 l 1
- 30 60.1640625 l 1
+ 30 40 l 1
+ 0 40 l 1
+ 0 60 l 1
+ 30 60 l 1
  30 130 l 1
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2526
 Encoding: 9510 9510 163
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 39.9999> 50 10<0 30>
-VStem: 30 20<60 130> 30 9.99986<-30 50>
+VStem: 30 20<60 130> 30 10<-30 50>
 LayerCount: 2
 Fore
 SplineSet
 30 -30 m 1xd0
- 30 50.2080078125 l 1xd0
+ 30 50 l 1xd0
  -0 50 l 1
  -0 60 l 1
  30 60 l 1
  30 130 l 1
  50 130 l 9
- 50 50.2083333333 l 25xe0
- 39.9998550415 50 l 25
- 39.9998550415 -30 l 25
+ 50 50 l 25xe0
+ 40 50 l 25
+ 40 -30 l 25
  30 -30 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2527
 Encoding: 9511 9511 164
 Width: 80
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 40 130 m 1
  30 130 l 1
- 30 60.2080078125 l 1
- 0 60.2080078125 l 1
- 0 50.2080078125 l 1
- 30 50.2080078125 l 1
+ 30 60 l 1
+ 0 60 l 1
+ 0 50 l 1
+ 30 50 l 1
  30 -30 l 1
  49 -30 l 1
  50 60 l 25
  40 60 l 1
  40 130 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni2528
 Encoding: 9512 9512 165
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<0 30>
 VStem: 30 20<-30 50 60 130>
 LayerCount: 2
@@ -5307,13 +5142,12 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2529
 Encoding: 9513 9513 166
 Width: 80
-Flags: W
+Flags: HW
 VStem: 0 50
 LayerCount: 2
 Fore
@@ -5330,13 +5164,12 @@ SplineSet
  50 130 l 1
  30 130 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni252A
 Encoding: 9514 9514 167
 Width: 80
-Flags: W
+Flags: HW
 VStem: 0 50
 LayerCount: 2
 Fore
@@ -5353,13 +5186,12 @@ SplineSet
  40 60 l 1
  40 130 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni252B
 Encoding: 9515 9515 168
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30>
 VStem: 30 20<-30 40 60 130>
 LayerCount: 2
@@ -5375,13 +5207,12 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF060000
 Encoding: 9516 9516 169
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<0 30 40 80>
 VStem: 30 10<-30 50>
 LayerCount: 2
@@ -5397,13 +5228,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni252D
 Encoding: 9517 9517 170
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30> 50 10<40 80>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -5419,13 +5249,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni252E
 Encoding: 9518 9518 171
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<40 80> 50 10<0 30>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -5441,13 +5270,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni252F
 Encoding: 9519 9519 172
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30 40 80>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -5463,13 +5291,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2530
 Encoding: 9520 9520 173
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<0 30 50 80>
 VStem: 30 20<-30 50>
 LayerCount: 2
@@ -5485,13 +5312,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2531
 Encoding: 9521 9521 174
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30> 50 10<50 80>
 VStem: 30 20<-30 40>
 LayerCount: 2
@@ -5507,13 +5333,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2532
 Encoding: 9522 9522 175
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<50 80> 50 10<0 30>
 VStem: 30 20<-30 40>
 LayerCount: 2
@@ -5529,13 +5354,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2533
 Encoding: 9523 9523 176
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30 50 80>
 VStem: 30 20<-30 40>
 LayerCount: 2
@@ -5551,13 +5375,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF070000
 Encoding: 9524 9524 177
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 30 40 80>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -5573,13 +5396,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2535
 Encoding: 9525 9525 178
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30> 50 10<40 80>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -5597,13 +5419,12 @@ SplineSet
  80 60 l 1
  80 50 l 1x60
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2536
 Encoding: 9526 9526 179
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<40 80> 50 10<0 30>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -5621,13 +5442,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2537
 Encoding: 9527 9527 180
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30 40 80>
 VStem: 30 10<60 130>
 LayerCount: 2
@@ -5643,13 +5463,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2538
 Encoding: 9528 9528 181
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 30 50 80>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -5665,13 +5484,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2539
 Encoding: 9529 9529 182
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30> 50 10<50 80>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -5689,13 +5507,12 @@ SplineSet
  80 60 l 1
  80 50 l 1x60
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni253A
 Encoding: 9530 9530 183
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<50 80> 50 10<0 30>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -5713,13 +5530,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni253B
 Encoding: 9531 9531 184
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30 50 80>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -5735,13 +5551,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF050000
 Encoding: 9532 9532 185
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<0 30 40 80>
 VStem: 30 10<-30 50 60 130>
 LayerCount: 2
@@ -5761,13 +5576,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni253D
 Encoding: 9533 9533 186
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30> 50 10<40 80>
 VStem: 30 10<-30 40 60 130>
 LayerCount: 2
@@ -5787,13 +5601,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni253E
 Encoding: 9534 9534 187
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<40 80> 50 10<0 30>
 VStem: 30 10<-30 40 60 130>
 LayerCount: 2
@@ -5813,13 +5626,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni253F
 Encoding: 9535 9535 188
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30 40 80>
 VStem: 30 10<-30 40 60 130>
 LayerCount: 2
@@ -5839,13 +5651,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2540
 Encoding: 9536 9536 189
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 50 10<0 30 50 80>
 VStem: 30 20<60 130> 30 10<-30 50>
 LayerCount: 2
@@ -5865,13 +5676,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2541
 Encoding: 9537 9537 190
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<0 30 50 80>
 VStem: 30 20<-30 50> 30 10<60 130>
 LayerCount: 2
@@ -5891,13 +5701,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2542
 Encoding: 9538 9538 191
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 50 10<0 30 50 80>
 VStem: 30 20<-30 50 60 130>
 LayerCount: 2
@@ -5917,13 +5726,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2543
 Encoding: 9539 9539 192
 Width: 80
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5943,13 +5751,12 @@ SplineSet
  50 50 l 25
  80 50 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni2544
 Encoding: 9540 9540 193
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<50 80> 50 10<0 30>
 VStem: 30 20<60 130> 30 10<-30 40>
 LayerCount: 2
@@ -5969,13 +5776,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2545
 Encoding: 9541 9541 194
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30> 50 10<50 80>
 VStem: 30 20<-30 40> 30 10<60 130>
 LayerCount: 2
@@ -5995,13 +5801,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xa8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2546
 Encoding: 9542 9542 195
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<50 80> 50 10<0 30>
 VStem: 30 20<-30 40> 30 10<60 130>
 LayerCount: 2
@@ -6021,13 +5826,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xc8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2547
 Encoding: 9543 9543 196
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<0 30 50 80>
 VStem: 30 20<60 130> 30 10<-30 40>
 LayerCount: 2
@@ -6047,13 +5851,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2548
 Encoding: 9544 9544 197
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30 50 80>
 VStem: 30 20<-30 40> 30 10<60 130>
 LayerCount: 2
@@ -6073,13 +5876,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2549
 Encoding: 9545 9545 198
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30> 50 10<50 80>
 VStem: 30 20<-30 40 60 130>
 LayerCount: 2
@@ -6099,13 +5901,12 @@ SplineSet
  80 60 l 1
  80 50 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254A
 Encoding: 9546 9546 199
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<50 80> 50 10<0 30>
 VStem: 30 20<-30 40 60 130>
 LayerCount: 2
@@ -6125,13 +5926,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254B
 Encoding: 9547 9547 200
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<0 30 50 80>
 VStem: 30 20<-30 40 60 130>
 LayerCount: 2
@@ -6151,13 +5951,12 @@ SplineSet
  80 60 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254C
 Encoding: 9548 9548 201
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<5 35 45 75>
 LayerCount: 2
 Fore
@@ -6173,13 +5972,12 @@ SplineSet
  35 60 l 1
  35 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254D
 Encoding: 9549 9549 202
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<5 35 45 75>
 VStem: 5 30<40 60> 45 30<40 60>
 LayerCount: 2
@@ -6196,13 +5994,12 @@ SplineSet
  35 60 l 1
  35 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254E
 Encoding: 9550 9550 203
 Width: 80
-Flags: W
+Flags: HW
 HStem: 70 21G<30 40>
 VStem: 30 10<-10 40 70 120>
 LayerCount: 2
@@ -6219,13 +6016,12 @@ SplineSet
  40 40 l 1
  40 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni254F
 Encoding: 9551 9551 204
 Width: 80
-Flags: W
+Flags: HW
 HStem: 70 21G<30 50>
 VStem: 30 20<-10 40 70 120>
 LayerCount: 2
@@ -6242,13 +6038,12 @@ SplineSet
  50 40 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF430000
 Encoding: 9552 9552 205
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<0 80> 60 10<0 80>
 LayerCount: 2
 Fore
@@ -6264,13 +6059,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF240000
 Encoding: 9553 9553 206
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50>
 VStem: 20 10<-30 130> 40 10<-30 130>
 LayerCount: 2
@@ -6287,13 +6081,12 @@ SplineSet
  30 130 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF510000
 Encoding: 9554 9554 207
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<40 80> 60 10<40 80>
 VStem: 30 10<-30 40 50 60>
 LayerCount: 2
@@ -6311,13 +6104,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF520000
 Encoding: 9555 9555 208
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<30 40 50 80>
 VStem: 20 10<-30 50> 40 10<-30 50>
 LayerCount: 2
@@ -6335,13 +6127,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF390000
 Encoding: 9556 9556 209
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<50 80> 60 10<30 80>
 VStem: 20 10<-30 60> 40 10<-30 40>
 LayerCount: 2
@@ -6362,13 +6153,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF220000
 Encoding: 9557 9557 210
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<0 30> 60 10<0 30>
 VStem: 30 10<-30 40 50 60>
 LayerCount: 2
@@ -6386,13 +6176,12 @@ SplineSet
  40 70 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF210000
 Encoding: 9558 9558 211
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<0 20 30 40>
 VStem: 20 10<-30 50> 40 10<-30 50>
 LayerCount: 2
@@ -6410,13 +6199,12 @@ SplineSet
  50 60 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF250000
 Encoding: 9559 9559 212
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<0 20> 60 10<0 40>
 VStem: 20 10<-30 40> 40 10<-30 60>
 LayerCount: 2
@@ -6437,13 +6225,12 @@ SplineSet
  30 50 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF500000
 Encoding: 9560 9560 213
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<40 80> 60 10<40 80>
 VStem: 30 10<50 60 70 130>
 LayerCount: 2
@@ -6461,13 +6248,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF490000
 Encoding: 9561 9561 214
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<30 40 50 80>
 VStem: 20 10<60 130> 40 10<60 130>
 LayerCount: 2
@@ -6485,13 +6271,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF380000
 Encoding: 9562 9562 215
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<30 80> 60 10<50 80>
 VStem: 20 10<50 130> 40 10<70 130>
 LayerCount: 2
@@ -6512,13 +6297,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF280000
 Encoding: 9563 9563 216
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<0 30> 60 10<0 30>
 VStem: 30 10<50 60 70 130>
 LayerCount: 2
@@ -6536,13 +6320,12 @@ SplineSet
  40 130 l 1
  40 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF270000
 Encoding: 9564 9564 217
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 20 30 40>
 VStem: 20 10<60 130> 40 10<60 130>
 LayerCount: 2
@@ -6560,13 +6343,12 @@ SplineSet
  50 130 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF260000
 Encoding: 9565 9565 218
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<0 40> 60 10<0 20>
 VStem: 20 10<70 130> 40 10<50 130>
 LayerCount: 2
@@ -6587,13 +6369,12 @@ SplineSet
  30 130 l 1
  30 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF360000
 Encoding: 9566 9566 219
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<40 80> 60 10<40 80>
 VStem: 30 10<-30 40 50 60 70 130>
 LayerCount: 2
@@ -6613,13 +6394,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF370000
 Encoding: 9567 9567 220
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<50 80>
 VStem: 20 10<-30 130> 40 10<-30 50 60 130>
 LayerCount: 2
@@ -6640,13 +6420,12 @@ SplineSet
  30 130 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF420000
 Encoding: 9568 9568 221
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<50 80> 60 10<50 80>
 VStem: 20 10<-30 130> 40 10<-30 40 70 130>
 LayerCount: 2
@@ -6672,13 +6451,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF190000
 Encoding: 9569 9569 222
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<0 30> 60 10<0 30>
 VStem: 30 10<-30 40 50 60 70 130>
 LayerCount: 2
@@ -6698,13 +6476,12 @@ SplineSet
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF200000
 Encoding: 9570 9570 223
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<0 20>
 VStem: 20 10<-30 50 60 130> 40 10<-30 130>
 LayerCount: 2
@@ -6725,13 +6502,12 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF230000
 Encoding: 9571 9571 224
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<0 20> 60 10<0 20>
 VStem: 0 30<40 50 60 70> 20 10<-30 40 70 130> 40 10<-30 130>
 LayerCount: 2
@@ -6757,13 +6533,12 @@ SplineSet
  30 130 l 1xec
  30 60 l 1xf4
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF470000
 Encoding: 9572 9572 225
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<0 30 40 80> 60 10<0 80>
 VStem: 30 10<-30 40>
 LayerCount: 2
@@ -6784,13 +6559,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF480000
 Encoding: 9573 9573 226
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<0 20 30 40 50 80>
 VStem: 20 10<-30 50> 40 10<-30 50>
 LayerCount: 2
@@ -6810,13 +6584,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF410000
 Encoding: 9574 9574 227
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<0 20 50 80> 60 10<0 80>
 VStem: 20 10<-30 40> 40 10<-30 40>
 LayerCount: 2
@@ -6842,13 +6615,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF450000
 Encoding: 9575 9575 228
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<0 80> 60 10<0 30 40 80>
 VStem: 30 10<70 130>
 LayerCount: 2
@@ -6869,13 +6641,12 @@ SplineSet
  80 50 l 1
  80 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF460000
 Encoding: 9576 9576 229
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<0 20 30 40 50 80>
 VStem: 20 10<60 130> 40 10<60 130>
 LayerCount: 2
@@ -6895,13 +6666,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF400000
 Encoding: 9577 9577 230
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 10<0 80> 60 10<0 20 50 80>
 VStem: 20 10<70 130> 40 10<70 130>
 LayerCount: 2
@@ -6927,13 +6697,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF540000
 Encoding: 9578 9578 231
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 10<0 30 40 80> 60 10<0 30 40 80>
 VStem: 30 10<-30 40 70 130>
 LayerCount: 2
@@ -6958,13 +6727,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF530000
 Encoding: 9579 9579 232
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 50 10<0 20 50 80>
 VStem: 20 10<-30 50 60 130> 40 10<-30 50 60 130>
 LayerCount: 2
@@ -6989,13 +6757,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: SF440000
 Encoding: 9580 9580 233
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<20 30 40 50> 40 10<0 20 50 80> 60 10<0 20 50 80>
 VStem: 0 30<40 50 60 70> 20 10<-30 40 70 130> 40 10<-30 40 70 130>
 LayerCount: 2
@@ -7030,13 +6797,12 @@ SplineSet
  80 70 l 1
  80 60 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni256D
 Encoding: 9581 9581 234
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 20 10<40 50> 30 10<50 60> 40 10<60 70> 50 10<70 80>
 VStem: 30 10<-30 20> 40 10<20 30> 50 10<30 40> 60 10<40 50> 70 10<50 60>
 LayerCount: 2
@@ -7068,13 +6834,12 @@ SplineSet
  60 40 l 1
  60 30 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni256E
 Encoding: 9582 9582 235
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 30 10<20 30> 40 10<10 20> 50 10<0 10>
 VStem: 0 10<50 60> 10 10<40 50> 20 10<30 40> 30 10<-30 30>
 LayerCount: 2
@@ -7098,13 +6863,12 @@ SplineSet
  40 30 l 1
  40 -30 l 1xc1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni256F
 Encoding: 9583 9583 236
 Width: 80
-Flags: W
+Flags: HW
 HStem: 60 10<0 10> 70 10<10 20> 80 10<20 30> 90 21G<30 40>
 VStem: 0 10<60 70> 10 10<70 80> 20 10<80 90> 30 10<90 130>
 LayerCount: 2
@@ -7131,13 +6895,12 @@ SplineSet
  20 80 l 1
  20 70 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni2570
 Encoding: 9584 9584 237
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 10<70 80> 60 10<60 70> 70 10<50 60> 80 10<40 50>
 VStem: 30 10<90 130> 40 10<80 90> 50 10<70 80> 60 10<60 70> 70 10<50 60>
 LayerCount: 2
@@ -7166,13 +6929,12 @@ SplineSet
  70 70 l 1x41
  70 60 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni2571
 Encoding: 9585 9585 238
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 10> 10 20<10 20> 20 20<20 30> 30 20<30 40> 40 20<40 50> 50 20<50 60> 60 20<60 70>
 VStem: 0 20<10 20> 0 10<-30 10> 10 20<20 30> 20 20<30 40> 30 20<40 50> 40 20<50 60> 50 20<60 70> 60 20<70 80> 70 10<80 130>
 LayerCount: 2
@@ -7212,13 +6974,12 @@ SplineSet
  80 130 l 1x8201
  80 70 l 1x8402
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2572
 Encoding: 9586 9586 239
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<70 80> 10 20<60 70> 20 20<50 60> 30 20<40 50> 40 20<30 40> 50 20<20 30> 60 20<10 20>
 VStem: 0 20<70 80> 0 10<80 130> 10 20<60 70> 20 20<50 60> 30 20<40 50> 40 20<30 40> 50 20<20 30> 60 20<10 20> 70 10<-30 10>
 LayerCount: 2
@@ -7258,13 +7019,12 @@ SplineSet
  80 20 l 1xa002
  80 -30 l 1xa001
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2573
 Encoding: 9587 9587 240
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 10 70 80> 10 20<10 20 60 70> 20 20<20 30 50 60> 50 20<20 30 50 60> 60 20<10 20 60 70>
 VStem: 0 20<10 20 70 80> 0 10<-30 10 80 130> 10 20<20 30 60 70> 50 20<20 30 60 70> 60 20<10 20 70 80> 70 10<-30 10 80 130>
 LayerCount: 2
@@ -7324,13 +7084,12 @@ SplineSet
  80 20 l 1xa040
  80 -30 l 1xa020
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2574
 Encoding: 9588 9588 241
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 30<30 50>
 VStem: 30 20<40 50 60 70>
 LayerCount: 2
@@ -7346,35 +7105,33 @@ SplineSet
  50 70 l 1
  50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2575
 Encoding: 9589 9589 242
 Width: 80
-Flags: W
-HStem: 40.1641 20<20 30 40 50>
+Flags: HW
+HStem: 40 20<20 30 40 50>
 VStem: 20 30<40.1641 60.1641>
 LayerCount: 2
 Fore
 SplineSet
-50 40.1640625 m 1
- 20 40.1640625 l 1
- 20 60.1640625 l 1
- 30 60.1640625 l 1
+50 40 m 1
+ 20 40 l 1
+ 20 60 l 1
+ 30 60 l 1
  30 130 l 1
  40 130 l 1
- 40 60.1640625 l 1
- 50 60.1640625 l 1
- 50 40.1640625 l 1
+ 40 60 l 1
+ 50 60 l 1
+ 50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2576
 Encoding: 9590 9590 243
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 30<30 50>
 VStem: 30 20<40 50 60 70>
 LayerCount: 2
@@ -7390,13 +7147,12 @@ SplineSet
  80 60 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2577
 Encoding: 9591 9591 244
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 40> 40 20<20 30 40 50>
 VStem: 20 30<40 60>
 LayerCount: 2
@@ -7412,13 +7168,12 @@ SplineSet
  50 60 l 1
  50 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2578
 Encoding: 9592 9592 245
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 30> 50 20G<30 50>
 VStem: 30 20<30 40 60 70>
 LayerCount: 2
@@ -7434,13 +7189,12 @@ SplineSet
  50 70 l 1
  50 30 l 1x60
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2579
 Encoding: 9593 9593 246
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<20 30 50 60>
 VStem: 30 20<60 130>
 LayerCount: 2
@@ -7456,13 +7210,12 @@ SplineSet
  60 60 l 1
  60 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257A
 Encoding: 9594 9594 247
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<50 80> 50 20G<30 50>
 VStem: 30 20<30 40 60 70>
 LayerCount: 2
@@ -7478,13 +7231,12 @@ SplineSet
  80 60 l 1
  80 40 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257B
 Encoding: 9595 9595 248
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50> 40 20<20 30 50 60>
 VStem: 30 20<-30 40>
 LayerCount: 2
@@ -7500,13 +7252,12 @@ SplineSet
  60 60 l 1
  60 40 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257C
 Encoding: 9596 9596 249
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<40 80> 50 10<0 40>
 LayerCount: 2
 Fore
@@ -7519,13 +7270,12 @@ SplineSet
  80 60 l 1
  80 40 l 1x80
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257D
 Encoding: 9597 9597 250
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<30 50>
 VStem: 30 20<-30 60> 30 10<60 130>
 LayerCount: 2
@@ -7539,13 +7289,12 @@ SplineSet
  50 60 l 25
  50 -30 l 1xc0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257E
 Encoding: 9598 9598 251
 Width: 80
-Flags: W
+Flags: HW
 HStem: 40 20<0 40> 50 10<40 80>
 LayerCount: 2
 Fore
@@ -7558,13 +7307,12 @@ SplineSet
  80 60 l 1
  80 50 l 1x40
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni257F
 Encoding: 9599 9599 252
 Width: 80
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7576,13 +7324,12 @@ SplineSet
  50 50 l 1
  50 130 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: upblock
 Encoding: 9600 9600 253
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 80<0 80>
 VStem: 0 80<50 130>
 LayerCount: 2
@@ -7594,13 +7341,12 @@ SplineSet
  80 130 l 1
  80 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2581
 Encoding: 9601 9601 254
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 20<0 80>
 LayerCount: 2
 Fore
@@ -7611,13 +7357,12 @@ SplineSet
  80 -10 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2582
 Encoding: 9602 9602 255
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 40<0 80>
 LayerCount: 2
 Fore
@@ -7628,13 +7373,12 @@ SplineSet
  80 10 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2583
 Encoding: 9603 9603 256
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 60<0 80>
 LayerCount: 2
 Fore
@@ -7645,13 +7389,12 @@ SplineSet
  0 -30 l 1
  0 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dnblock
 Encoding: 9604 9604 257
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 80<0 80>
 VStem: 0 80<-30 50>
 LayerCount: 2
@@ -7663,13 +7406,12 @@ SplineSet
  80 50 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2585
 Encoding: 9605 9605 258
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80> 50 20G<0 80>
 VStem: 0 80<-30 70>
 LayerCount: 2
@@ -7681,13 +7423,12 @@ SplineSet
  80 70 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2586
 Encoding: 9606 9606 259
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80> 70 20G<0 80>
 VStem: 0 80<-30 90>
 LayerCount: 2
@@ -7699,13 +7440,12 @@ SplineSet
  80 90 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2587
 Encoding: 9607 9607 260
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80>
 VStem: 0 80<-30 110>
 LayerCount: 2
@@ -7717,13 +7457,12 @@ SplineSet
  80 110 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: block
 Encoding: 9608 9608 261
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80>
 VStem: 0 80<-30 130>
 LayerCount: 2
@@ -7735,13 +7474,12 @@ SplineSet
  80 130 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2589
 Encoding: 9609 9609 262
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 70>
 VStem: 0 70<-30 130>
 LayerCount: 2
@@ -7753,13 +7491,12 @@ SplineSet
  70 130 l 1
  70 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni258A
 Encoding: 9610 9610 263
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 60>
 VStem: 0 60<-30 130>
 LayerCount: 2
@@ -7771,13 +7508,12 @@ SplineSet
  60 130 l 1
  60 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni258B
 Encoding: 9611 9611 264
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 50>
 VStem: 0 50<-30 130>
 LayerCount: 2
@@ -7789,13 +7525,12 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: lfblock
 Encoding: 9612 9612 265
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 40<-30 130>
 LayerCount: 2
@@ -7807,13 +7542,12 @@ SplineSet
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni258D
 Encoding: 9613 9613 266
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 30>
 VStem: 0 30<-30 130>
 LayerCount: 2
@@ -7825,13 +7559,12 @@ SplineSet
  30 130 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni258E
 Encoding: 9614 9614 267
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 20>
 VStem: 0 20<-30 130>
 LayerCount: 2
@@ -7843,13 +7576,12 @@ SplineSet
  20 130 l 1
  20 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni258F
 Encoding: 9615 9615 268
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 10>
 VStem: 0 10<-30 130>
 LayerCount: 2
@@ -7861,13 +7593,12 @@ SplineSet
  10 130 l 1
  10 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: rtblock
 Encoding: 9616 9616 269
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 40<-30 130>
 LayerCount: 2
@@ -7879,13 +7610,12 @@ SplineSet
  40 130 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ltshade
 Encoding: 9617 9617 270
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 10<0 10 40 50> -20 10<20 30 60 70> -10 10<0 10 40 50> 0 10<20 30 60 70> 10 10<0 10 40 50> 20 10<20 30 60 70> 30 10<0 10 40 50> 40 10<20 30 60 70> 50 10<0 10 40 50> 60 10<20 30 60 70> 70 10<0 10 40 50> 80 10<20 30 60 70> 90 10<0 10 40 50> 100 10<20 30 60 70> 110 10<0 10 40 50> 120 10<60 70>
 VStem: 0 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 20 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110> 40 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 60 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130>
 LayerCount: 2
@@ -8052,13 +7782,12 @@ SplineSet
  20 100 l 1
  20 110 l 1x0004f0
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: shade
 Encoding: 9618 9618 271
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 10<0 10 20 30 40 50 60 70> -20 10<10 20 30 40 50 60 70 80> -10 10<0 10 20 30 40 50 60 70> 0 10<10 20 30 40 50 60 70 80> 10 10<0 10 20 30 40 50 60 70> 20 10<10 20 30 40 50 60 70 80> 30 10<0 10 20 30 40 50 60 70> 40 10<10 20 30 40 50 60 70 80> 50 10<0 10 20 30 40 50 60 70> 60 10<10 20 30 40 50 60 70 80> 70 10<0 10 20 30 40 50 60 70> 80 10<10 20 30 40 50 60 70 80> 90 10<0 10 20 30 40 50 60 70> 100 10<10 20 30 40 50 60 70 80> 110 10<0 10 20 30 40 50 60 70> 120 10<30 40 70 80>
 VStem: 0 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 10 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110> 20 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 30 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130> 40 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 50 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110> 60 10<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 70 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130>
 LayerCount: 2
@@ -8339,13 +8068,12 @@ SplineSet
  70 60 l 1x008002
  70 70 l 1x004002
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: dkshade
 Encoding: 9619 9619 272
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 10<20 30 60 70> -20 10<0 10 40 50> -10 10<20 30 60 70> 0 10<0 10 40 50> 10 10<20 30 60 70> 20 10<0 10 40 50> 30 10<20 30 60 70> 40 10<0 10 40 50> 50 10<20 30 60 70> 60 10<0 10 40 50> 70 10<20 30 60 70> 80 10<0 10 40 50> 90 10<20 30 60 70> 100 10<0 10 40 50> 110 10<20 30 60 70> 120 10<0 10 40 50>
 VStem: 0 20<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130> 10 30<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 30 30<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130> 50 30<-30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120> 70 10<-20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120 130>
 LayerCount: 2
@@ -8504,13 +8232,12 @@ SplineSet
  60 100 l 1
  70 100 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2594
 Encoding: 9620 9620 273
 Width: 80
-Flags: W
+Flags: HW
 HStem: 100 30<0 80>
 LayerCount: 2
 Fore
@@ -8521,13 +8248,12 @@ SplineSet
  80 130 l 1
  80 100 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2595
 Encoding: 9621 9621 274
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 10>
 VStem: 0 10<-30 130>
 LayerCount: 2
@@ -8539,13 +8265,12 @@ SplineSet
  10 130 l 1
  10 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2596
 Encoding: 9622 9622 275
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 40<-30 50>
 LayerCount: 2
@@ -8557,13 +8282,12 @@ SplineSet
  40 50 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2597
 Encoding: 9623 9623 276
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 40<-30 50>
 LayerCount: 2
@@ -8575,13 +8299,12 @@ SplineSet
  40 50 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2598
 Encoding: 9624 9624 277
 Width: 80
-Flags: W
+Flags: HW
 VStem: 0 40<50 130>
 LayerCount: 2
 Fore
@@ -8592,13 +8315,12 @@ SplineSet
  40 130 l 1
  40 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2599
 Encoding: 9625 9625 278
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80>
 VStem: 0 80<-30 50> 0 40<50 130>
 LayerCount: 2
@@ -8612,13 +8334,12 @@ SplineSet
  80 50 l 1
  80 -30 l 1xc0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni259A
 Encoding: 9626 9626 279
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<40 80>
 VStem: 0 40<50 130> 40 40<-30 50>
 LayerCount: 2
@@ -8634,13 +8355,12 @@ SplineSet
  80 50 l 1
  80 -30 l 1xa0
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni259B
 Encoding: 9627 9627 280
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 80<50 130> 0 40<-30 50>
 LayerCount: 2
@@ -8654,13 +8374,12 @@ SplineSet
  80 130 l 1
  80 50 l 1xc0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni259C
 Encoding: 9628 9628 281
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<40 80>
 VStem: 0 80<50 130> 40 40<-30 50>
 LayerCount: 2
@@ -8674,13 +8393,12 @@ SplineSet
  80 130 l 1xc0
  80 -30 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni259D
 Encoding: 9629 9629 282
 Width: 80
-Flags: W
+Flags: HW
 VStem: 0 40<50 130>
 LayerCount: 2
 Fore
@@ -8691,13 +8409,12 @@ SplineSet
  40 130 l 1
  40 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni259E
 Encoding: 9630 9630 283
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 40>
 VStem: 0 40<-30 50> 40 40<50 130>
 LayerCount: 2
@@ -8714,13 +8431,12 @@ SplineSet
  80 130 l 1
  80 50 l 1xa0
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uni259F
 Encoding: 9631 9631 284
 Width: 80
-Flags: W
+Flags: HW
 HStem: -30 21G<0 80>
 VStem: 0 80<-30 50> 40 40<50 130>
 LayerCount: 2
@@ -8734,7 +8450,6 @@ SplineSet
  80 130 l 1xa0
  80 -30 l 1xc0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: space
@@ -8744,19 +8459,15 @@ Flags: HW
 HStem: 0 20<20 40> 50 30<10 20 40 50> 70 20G<20 40>
 VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE200
 Encoding: 57856 57856 286
 Width: 80
-Flags: W
+Flags: HW
 HStem: 0 20<20 40> 50 30<10 20 40 50> 70 20G<20 40>
 VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE201
@@ -8774,7 +8485,6 @@ SplineSet
  0 80 l 1
  0 130 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE202
@@ -8792,7 +8502,6 @@ SplineSet
  40 80 l 25
  40 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE203
@@ -8810,7 +8519,6 @@ SplineSet
  0 80 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE204
@@ -8828,7 +8536,6 @@ SplineSet
  0 20 l 25
  0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE205
@@ -8846,7 +8553,6 @@ SplineSet
  0 20 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE206
@@ -8868,7 +8574,6 @@ SplineSet
  40 80 l 25
  40 130 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE207
@@ -8887,7 +8592,6 @@ SplineSet
  0 20 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE208
@@ -8904,7 +8608,6 @@ SplineSet
  40 20 l 25
  40 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE209
@@ -8926,7 +8629,6 @@ SplineSet
  0 80 l 25
  0 130 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE20A
@@ -8943,7 +8645,6 @@ SplineSet
  40 20 l 25
  40 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE20B
@@ -8962,7 +8663,6 @@ SplineSet
  40 80 l 25
  40 20 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE20C
@@ -8973,13 +8673,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 80 80.0624796549 l 25
- 80 20.0624796549 l 25
- 0 20.0624796549 l 25
- 0 80.0624796549 l 29
+0 80 m 29
+ 80 80 l 25
+ 80 20 l 25
+ 0 20 l 25
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE20D
@@ -8990,15 +8689,14 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-80 80.0624796549 m 1
- 80 20.0624796549 l 25
- 0 20.0624796549 l 25
+80 80 m 1
+ 80 20 l 25
+ 0 20 l 25
  0 130 l 25
- 39.9998550415 130 l 1
- 40 80.0625 l 25
- 80 80.0624796549 l 1
+ 40 130 l 1
+ 40 80 l 25
+ 80 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE20E
@@ -9009,15 +8707,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 40 80.0624796549 l 25
- 39.9998550415 130 l 25
+0 80 m 29
+ 40 80 l 25
+ 40 130 l 25
  80 130 l 25
- 80 20.0624796549 l 25
- 0 20.0624796549 l 25
- 0 80.0624796549 l 29
+ 80 20 l 25
+ 0 20 l 25
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE20F
@@ -9030,11 +8727,10 @@ Fore
 SplineSet
 0 130 m 1
  80 130 l 25
- 80 20.0624796549 l 1
- 0 20.0624796549 l 25
+ 80 20 l 1
+ 0 20 l 25
  0 130 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE210
@@ -9045,13 +8741,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 25
- 40 20.0624796549 l 1
+0 20 m 25
+ 40 20 l 1
  40 -30 l 25
  0 -30 l 1
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE211
@@ -9063,17 +8758,16 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 0 -30 m 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
- 0 20.0624796549 l 25
+ 40 -30 l 25
+ 40 20 l 25
+ 0 20 l 25
  0 -30 l 25
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE212
@@ -9086,16 +8780,15 @@ Fore
 SplineSet
 40 130 m 25
  80 130 l 1
- 80 80.0624796549 l 25
- 40 80.0624796549 l 1
+ 80 80 l 25
+ 40 80 l 1
  40 130 l 25
-0 20.0624796549 m 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+0 20 m 25
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE213
@@ -9107,17 +8800,16 @@ LayerCount: 2
 Fore
 SplineSet
 0 -30 m 29
- 0 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 0 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 29
 0 130 m 25
  80 130 l 25
- 80 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 80 80 l 25
+ 0 80 l 25
  0 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE214
@@ -9128,13 +8820,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 40 80.0624796549 l 25
- 39.9998550415 -30 l 25
+0 80 m 29
+ 40 80 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 29
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE215
@@ -9146,12 +8837,11 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 39.9998550415 -30 l 25
+ 40 130 l 25
+ 40 -30 l 25
  0 -30 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE216
@@ -9162,18 +8852,17 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 1
+40 130 m 1
  80 130 l 25
- 80 80.0624796549 l 1
- 40 80.0624796549 l 25
- 39.9998550415 130 l 1
-0 80.0624796549 m 25
- 40 80.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 80 l 1
+ 40 80 l 25
+ 40 130 l 1
+0 80 m 25
+ 40 80 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 25
+ 0 80 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE217
@@ -9186,13 +8875,12 @@ Fore
 SplineSet
 0 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 -30 l 25
  0 -30 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE218
@@ -9203,18 +8891,17 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 70 m 29
- 80 70.0000203451 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 70 l 29
-0 20.0624796549 m 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+40 70 m 29
+ 80 70 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 70 l 29
+0 20 m 25
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE219
@@ -9225,23 +8912,22 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
+0 80 m 29
  0 130 l 25
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 29
-40 80.0624796549 m 25
- 80 80.0624796549 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
-0 20.0624796549 m 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 29
+40 80 m 25
+ 80 80 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 80 l 25
+0 20 m 25
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE21A
@@ -9252,18 +8938,17 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 130 l 29
+ 80 20 l 25
+ 40 20 l 25
+ 40 130 l 29
 0 -30 m 1
- 0 20.0624796549 l 25
- 40 20.0624796549 l 1
+ 0 20 l 25
+ 40 20 l 1
  40 -30 l 25
  0 -30 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE21B
@@ -9274,20 +8959,19 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 29
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+0 20 m 29
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 29
+ 0 20 l 29
 0 130 m 25
  80 130 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE21C
@@ -9298,15 +8982,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 80 80.0624796549 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+0 80 m 29
+ 80 80 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 29
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE21D
@@ -9319,15 +9002,14 @@ Fore
 SplineSet
 0 130 m 29
  0 -30 l 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
- 80 20.0624796549 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 25
+ 40 -30 l 25
+ 40 20 l 25
+ 80 20 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 130 l 25
  0 130 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE21E
@@ -9339,16 +9021,15 @@ LayerCount: 2
 Fore
 SplineSet
 0 -30 m 25
- 0 80.0624796549 l 25
- 40 80.0624796549 l 1
+ 0 80 l 25
+ 40 80 l 1
  40 130 l 25
  80 130 l 1
- 80 20.0624796549 l 1
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 1
+ 40 20 l 25
+ 40 -30 l 25
  0 -30 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE21F
@@ -9361,13 +9042,12 @@ Fore
 SplineSet
 0 130 m 1
  80 130 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 1
+ 80 20 l 25
+ 40 20 l 1
  40 -30 l 25
  0 -30 l 25
  0 130 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE220
@@ -9379,12 +9059,11 @@ LayerCount: 2
 Fore
 SplineSet
 80 -30 m 29
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE221
@@ -9396,17 +9075,16 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 80 -30 m 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE222
@@ -9417,18 +9095,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 29
+ 80 80 l 25
+ 40 80 l 25
+ 40 130 l 29
 80 -30 m 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE223
@@ -9441,16 +9118,15 @@ Fore
 SplineSet
 0 130 m 1
  80 130 l 1
- 80 80.0624796549 l 1
- 0 80.0625 l 25
+ 80 80 l 1
+ 0 80 l 25
  0 130 l 1
 80 -30 m 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE224
@@ -9461,18 +9137,17 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 40 80.0624796549 l 29
- 40 20.0624796549 l 25
- 0 20.0624796549 l 25
- 0 80.0624796549 l 29
-40 20.0624796549 m 25
- 80 20.0624796549 l 25
+0 80 m 29
+ 40 80 l 29
+ 40 20 l 25
+ 0 20 l 25
+ 0 80 l 29
+40 20 m 25
+ 80 20 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
+ 40 -30 l 25
+ 40 20 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE225
@@ -9485,16 +9160,15 @@ Fore
 SplineSet
 0 130 m 29
  40 130 l 29
- 40 20.0624796549 l 1
- 0 20.0624796549 l 1
+ 40 20 l 1
+ 0 20 l 1
  0 130 l 29
-40 20.0624796549 m 25
- 80 20.0624796549 l 25
+40 20 m 25
+ 80 20 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
+ 40 -30 l 25
+ 40 20 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE226
@@ -9505,23 +9179,22 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 29
-0 80.0624796549 m 25
- 40 80.0624796549 l 25
- 40 20.0624796549 l 25
- 0 20.0624796549 l 25
- 0 80.0624796549 l 25
-40 20.0624796549 m 25
- 80 20.0624796549 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 130 l 29
+0 80 m 25
+ 40 80 l 25
+ 40 20 l 25
+ 0 20 l 25
+ 0 80 l 25
+40 20 m 25
+ 80 20 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
+ 40 -30 l 25
+ 40 20 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE227
@@ -9532,20 +9205,19 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 29
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
- 80 80.0624796549 l 25
+0 20 m 29
+ 40 20 l 25
+ 40 80 l 25
+ 80 80 l 25
  80 130 l 25
  0 130 l 25
- 0 20.0624796549 l 29
+ 0 20 l 29
 80 -30 m 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE228
@@ -9557,12 +9229,11 @@ LayerCount: 2
 Fore
 SplineSet
 80 -30 m 29
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 -30 l 25
  80 -30 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE229
@@ -9574,17 +9245,16 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 80 -30 m 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 -30 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 -30 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE22A
@@ -9595,13 +9265,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 39.9998550415 130 l 29
+ 40 -30 l 25
+ 40 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE22B
@@ -9615,12 +9284,11 @@ SplineSet
 0 130 m 29
  80 130 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 -30 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE22C
@@ -9631,15 +9299,14 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 80.0625 m 1
- 80 80.0625 l 25
+0 80 m 1
+ 80 80 l 25
  80 -30 l 1
- 39.9998550415 -30 l 1
- 40 20.0625 l 25
- -0 20.0625 l 25
- 0 80.0625 l 1
+ 40 -30 l 1
+ 40 20 l 25
+ -0 20 l 25
+ 0 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE22D
@@ -9651,16 +9318,15 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 80 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 80 80 l 25
  80 -30 l 25
- 39.9998550415 -30 l 25
- 40 20.0624796549 l 25
- 0 20.0624796549 l 25
+ 40 -30 l 25
+ 40 20 l 25
+ 0 20 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE22E
@@ -9671,17 +9337,16 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 29
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+0 20 m 29
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
  80 130 l 25
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
- 0 20.0624796549 l 29
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
+ 0 20 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE22F
@@ -9692,15 +9357,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 29
- 40 20.0624796549 l 25
- 39.9998550415 -30 l 25
+0 20 m 29
+ 40 20 l 25
+ 40 -30 l 25
  80 -30 l 25
  80 130 l 25
  0 130 l 25
- 0 20.0624796549 l 29
+ 0 20 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE230
@@ -9711,13 +9375,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 20.0624796549 m 29
- 80 20.0624796549 l 25
+0 20 m 29
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 29
+ 0 20 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE231
@@ -9729,17 +9392,16 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
-0 20.0624796549 m 25
- 80 20.0624796549 l 25
+0 20 m 25
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE232
@@ -9750,18 +9412,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 29
-0 20.0624796549 m 25
- 80 20.0624796549 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 130 l 29
+0 20 m 25
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE233
@@ -9774,16 +9435,15 @@ Fore
 SplineSet
 0 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 80 80 l 25
+ 0 80 l 25
  0 130 l 29
-0 20.0624796549 m 25
- 80 20.0624796549 l 25
+0 20 m 25
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
+ 0 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE234
@@ -9794,15 +9454,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 40 80.0624796549 l 25
- 40 20.0624796549 l 25
- 80 20.0624796549 l 25
+0 80 m 29
+ 40 80 l 25
+ 40 20 l 25
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 29
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE235
@@ -9815,13 +9474,12 @@ Fore
 SplineSet
 -0 130 m 29
  40 130 l 29
- 40 20.0624796549 l 1
- 80 20.0624796549 l 25
+ 40 20 l 1
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 1
  -0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE236
@@ -9832,20 +9490,19 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
- 80 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 29
-0 80.0624796549 m 25
- 40 80.0624796549 l 25
- 40 20.0624796549 l 25
- 80 20.0624796549 l 25
+ 80 80 l 25
+ 40 80 l 25
+ 40 130 l 29
+0 80 m 25
+ 40 80 l 25
+ 40 20 l 25
+ 80 20 l 25
  80 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 25
+ 0 80 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE237
@@ -9860,13 +9517,12 @@ SplineSet
  0 130 l 25
  0 -30 l 25
  80 -30 l 25
- 80 20.0624796549 l 25
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
- 80 80.0624796549 l 25
+ 80 20 l 25
+ 40 20 l 25
+ 40 80 l 25
+ 80 80 l 25
  80 130 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE238
@@ -9877,15 +9533,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-80 80.0625 m 25
+80 80 m 25
  80 -30 l 1
  0 -30 l 25
- 0 20.0624796549 l 25
- 40 20.0624796549 l 1
- 40 80.0625 l 25
- 80 80.0625 l 25
+ 0 20 l 25
+ 40 20 l 1
+ 40 80 l 25
+ 80 80 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE239
@@ -9897,19 +9552,18 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 80 -30 m 25
  0 -30 l 25
- 0 20.0624796549 l 25
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
- 80 80.0624796549 l 25
+ 0 20 l 25
+ 40 20 l 25
+ 40 80 l 25
+ 80 80 l 25
  80 -30 l 25
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE23A
@@ -9923,12 +9577,11 @@ SplineSet
 80 130 m 25
  80 -30 l 1
  0 -30 l 25
- 0 20.0624796549 l 25
- 40 20.0624796549 l 1
+ 0 20 l 25
+ 40 20 l 1
  40 130 l 25
  80 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE23B
@@ -9943,13 +9596,12 @@ SplineSet
  80 130 l 25
  80 -30 l 25
  0 -30 l 25
- 0 20.0624796549 l 25
- 40 20.0624796549 l 25
- 40 80.0624796549 l 25
- 0 80.0624796549 l 25
+ 0 20 l 25
+ 40 20 l 25
+ 40 80 l 25
+ 0 80 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE23C
@@ -9960,13 +9612,12 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-0 80.0624796549 m 29
- 80 80.0624796549 l 25
+0 80 m 29
+ 80 80 l 25
  80 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 29
+ 0 80 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE23D
@@ -9978,14 +9629,13 @@ LayerCount: 2
 Fore
 SplineSet
 0 130 m 29
- 39.9998550415 130 l 25
- 40 80.0624796549 l 25
- 80 80.0624796549 l 25
+ 40 130 l 25
+ 40 80 l 25
+ 80 80 l 25
  80 -30 l 25
  0 -30 l 25
  0 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE23E
@@ -9996,15 +9646,14 @@ Flags: H
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 29
+40 130 m 29
  80 130 l 25
  80 -30 l 25
  0 -30 l 25
- 0 80.0624796549 l 25
- 40 80.0624796549 l 25
- 39.9998550415 130 l 29
+ 0 80 l 25
+ 40 80 l 25
+ 40 130 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE23F
@@ -10021,18 +9670,15 @@ SplineSet
  0 -30 l 25
  0 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C0
 Encoding: 58048 58048 350
 Width: 80
-Flags: W
+Flags: HW
 HStem: 0 20<20 40> 50 30<10 20 40 50> 70 20G<20 40>
 VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE2C1
@@ -10045,12 +9691,11 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C2
@@ -10058,7 +9703,7 @@ Encoding: 58050 58050 352
 Width: 80
 Flags: HW
 HStem: 0 20<60.0001 80.0001> 50 30<50.0001 60.0001 80.0001 90.0001> 70 20G<60.0001 80.0001>
-VStem: 50.0001 40<50 80> 60.0001 20<0 20 30 50 80 90>
+VStem: 50 40<50 80> 60 20<0 20 30 50 80 90>
 LayerCount: 2
 Fore
 SplineSet
@@ -10068,7 +9713,6 @@ SplineSet
  50 90 l 25
  50 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C3
@@ -10081,8 +9725,8 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
 50 130 m 25
@@ -10091,7 +9735,6 @@ SplineSet
  50 90 l 25
  50 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C4
@@ -10103,13 +9746,12 @@ VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
 Fore
 SplineSet
-10 80.1640625 m 1
- 40 80.1640625 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 1
  10 30 l 25
- 10 80.1640625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C5
@@ -10122,17 +9764,16 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 29
- 39.9998550415 130 l 29
- 39.9998550415 90 l 29
+ 40 130 l 29
+ 40 90 l 29
  10 90 l 29
  10 130 l 29
-10 80.0625 m 5
- 40 80.0625 l 5
+10 80 m 5
+ 40 80 l 5
  40 30 l 29
  10 30 l 29
- 10 80.0625 l 5
+ 10 80 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C6
@@ -10142,18 +9783,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-10 80.0625 m 1
- 40 80.0625 l 1
- 40 30.2265625 l 25
- 10 30.2265625 l 25
- 10 80.0625 l 1
+10 80 m 1
+ 40 80 l 1
+ 40 30 l 25
+ 10 30 l 25
+ 10 80 l 1
 50 130 m 25
  80 130 l 25
  80 90 l 25
  50 90 l 25
  50 130 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C7
@@ -10169,17 +9809,16 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C8
@@ -10189,13 +9828,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-10 80.0625 m 1
- 40 80.0625 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2C9
@@ -10206,17 +9844,16 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
+ 50 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CA
@@ -10231,13 +9868,12 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
+ 50 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CB
@@ -10253,17 +9889,16 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
+ 50 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CC
@@ -10273,19 +9908,18 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 1049
-50 80.0625 m 1,1,-1
- 80 80.0625 l 1,2,-1
+40 130 m 1049
+50 80 m 1,1,-1
+ 80 80 l 1,2,-1
  80 30 l 25,3,-1
  50 30 l 25,4,-1
- 50 80.0625 l 1,1,-1
-10 80.0625 m 1,5,-1
- 40 80.0625 l 1,6,-1
+ 50 80 l 1,1,-1
+10 80 m 1,5,-1
+ 40 80 l 1,6,-1
  40 30 l 25,7,-1
  10 30 l 25,8,-1
- 10 80.0625 l 1,5,-1
+ 10 80 l 1,5,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CD
@@ -10296,23 +9930,22 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
-39.9998550415 130 m 1025
+ 10 80 l 1
+40 130 m 1025
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CE
@@ -10327,18 +9960,17 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2CF
@@ -10354,22 +9986,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D0
@@ -10379,15 +10010,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 25
- 39.9998550415 90 l 1049
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 3
 EndChar
 
 StartChar: uniE2D1
@@ -10398,17 +10026,16 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D2
@@ -10423,13 +10050,12 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D3
@@ -10445,17 +10071,16 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D4
@@ -10465,18 +10090,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D5
@@ -10487,22 +10111,21 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D6
@@ -10517,19 +10140,18 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-39.9998550415 130 m 1049
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+40 130 m 1049
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D7
@@ -10545,22 +10167,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D8
@@ -10570,19 +10191,18 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-39.9998550415 130 m 1049
-50 80.0625 m 1,1,-1
- 80 80.0625 l 1,2,-1
+40 130 m 1049
+50 80 m 1,1,-1
+ 80 80 l 1,2,-1
  80 30 l 25,3,-1
  50 30 l 25,4,-1
- 50 80.0625 l 1,1,-1
-10 20.0625 m 25,5,-1
- 40 20.0625 l 25,6,-1
- 40 -19.9375 l 25,7,-1
- 10 -19.9375 l 25,8,-1
- 10 20.0625 l 25,5,-1
+ 50 80 l 1,1,-1
+10 20 m 25,5,-1
+ 40 20 l 25,6,-1
+ 40 -20 l 25,7,-1
+ 10 -20 l 25,8,-1
+ 10 20 l 25,5,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2D9
@@ -10593,23 +10213,22 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-39.9998550415 130 m 1049
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+40 130 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DA
@@ -10624,18 +10243,17 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DB
@@ -10651,22 +10269,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DC
@@ -10676,23 +10293,22 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DD
@@ -10703,28 +10319,27 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
-39.9998550415 130 m 1049
+ 10 80 l 1
+40 130 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DE
@@ -10739,23 +10354,22 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2DF
@@ -10771,27 +10385,26 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E0
@@ -10801,13 +10414,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E1
@@ -10818,18 +10430,17 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-39.9998550415 130 m 1049
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+40 130 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E2
@@ -10844,13 +10455,12 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E3
@@ -10866,17 +10476,16 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E4
@@ -10886,18 +10495,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E5
@@ -10908,22 +10516,21 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E6
@@ -10938,18 +10545,17 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E7
@@ -10965,22 +10571,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E8
@@ -10990,18 +10595,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2E9
@@ -11012,22 +10616,21 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2EA
@@ -11043,18 +10646,17 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 1049
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2EB
@@ -11070,22 +10672,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2EC
@@ -11095,23 +10696,22 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2ED
@@ -11122,27 +10722,26 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2EE
@@ -11157,23 +10756,22 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2EF
@@ -11189,27 +10787,26 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F0
@@ -11219,18 +10816,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F1
@@ -11241,22 +10837,21 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F2
@@ -11271,18 +10866,17 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F3
@@ -11298,22 +10892,21 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F4
@@ -11323,23 +10916,22 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F5
@@ -11350,27 +10942,26 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F6
@@ -11385,23 +10976,22 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F7
@@ -11417,27 +11007,26 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F8
@@ -11447,23 +11036,22 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2F9
@@ -11474,28 +11062,27 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-39.9998550415 130 m 1049
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+40 130 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FA
@@ -11510,23 +11097,22 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FB
@@ -11542,27 +11128,26 @@ SplineSet
  50 90 l 25
  50 130 l 25
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FC
@@ -11572,28 +11157,27 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FD
@@ -11604,33 +11188,32 @@ LayerCount: 2
 Fore
 SplineSet
 10 130 m 25
- 39.9998550415 130 l 25
- 39.9998550415 90 l 25
+ 40 130 l 25
+ 40 90 l 25
  10 90 l 25
  10 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
-39.9998550415 130 m 1049
+ 10 80 l 1
+40 130 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FE
@@ -11645,28 +11228,27 @@ SplineSet
  80 90 l 25
  50 90 l 25
  50 130 l 25
-50 80.0625 m 1
- 80 80.0625 l 1
+50 80 m 1
+ 80 80 l 1
  80 30 l 25
  50 30 l 25
- 50 80.0625 l 1
-50 20.0625 m 25
- 80 20.0625 l 25
- 80 -19.9375 l 25
- 50 -19.9375 l 25
- 50 20.0625 l 25
-10 20.0625 m 25
- 40 20.0625 l 25
- 40 -19.9375 l 25
- 10 -19.9375 l 25
- 10 20.0625 l 25
-10 80.0625 m 1
- 40 80.0625 l 1
+ 50 80 l 1
+50 20 m 25
+ 80 20 l 25
+ 80 -20 l 25
+ 50 -20 l 25
+ 50 20 l 25
+10 20 m 25
+ 40 20 l 25
+ 40 -20 l 25
+ 10 -20 l 25
+ 10 20 l 25
+10 80 m 1
+ 40 80 l 1
  40 30 l 25
  10 30 l 25
- 10 80.0625 l 1
+ 10 80 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE2FF
@@ -11682,43 +11264,40 @@ SplineSet
  50 90 l 29
  50 130 l 29
 10 130 m 29
- 39.9998550415 130 l 29
- 39.9998550415 90 l 29
+ 40 130 l 29
+ 40 90 l 29
  10 90 l 29
  10 130 l 29
-50 80.0625 m 5
- 80 80.0625 l 5
+50 80 m 5
+ 80 80 l 5
  80 30 l 29
  50 30 l 29
- 50 80.0625 l 5
-50 20.0625 m 29
- 80 20.0625 l 29
- 80 -19.9375 l 29
- 50 -19.9375 l 29
- 50 20.0625 l 29
-10 20.0625 m 29
- 40 20.0625 l 29
- 40 -19.9375 l 29
- 10 -19.9375 l 29
- 10 20.0625 l 29
-10 80.0625 m 5
- 40 80.0625 l 5
+ 50 80 l 5
+50 20 m 29
+ 80 20 l 29
+ 80 -20 l 29
+ 50 -20 l 29
+ 50 20 l 29
+10 20 m 29
+ 40 20 l 29
+ 40 -20 l 29
+ 10 -20 l 29
+ 10 20 l 29
+10 80 m 5
+ 40 80 l 5
  40 30 l 29
  10 30 l 29
- 10 80.0625 l 5
+ 10 80 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE020
 Encoding: 57376 57376 414
 Width: 80
-Flags: W
+Flags: HW
 HStem: 0 20<20 40> 50 30<10 20 40 50> 70 20G<20 40>
 VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE021
@@ -11744,7 +11323,6 @@ SplineSet
  50 50 l 1
  50 -10 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE022
@@ -11767,7 +11345,6 @@ SplineSet
  30 70 l 1
  30 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE023
@@ -11797,11 +11374,10 @@ SplineSet
  30 -30 l 25
  30 10 l 1
  40 10 l 9
- 39.9998550415 -30 l 25
+ 40 -30 l 25
  60 -30 l 25
  60 10 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uniE024
@@ -11839,7 +11415,6 @@ SplineSet
  30 -30 l 25
  30 -10 l 5x0808
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE025
@@ -11885,7 +11460,6 @@ SplineSet
  20 30 l 1
  30 30 l 1x005880
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE026
@@ -11920,7 +11494,6 @@ SplineSet
  20 10 l 1
  30 10 l 1xed
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE027
@@ -11938,7 +11511,6 @@ SplineSet
  50 70 l 1
  50 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE028
@@ -11958,11 +11530,10 @@ SplineSet
  50 90 l 1
  50 50 l 1
  40 50 l 9
- 39.9998550415 -30 l 25
+ 40 -30 l 25
  20 -30 l 25
  20 50 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE029
@@ -11988,33 +11559,31 @@ SplineSet
  30 -30 l 25
  30 50 l 5xc8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE02A
 Encoding: 57386 57386 424
 Width: 80
 Flags: HW
-HStem: -90 20<15 25 55 65> -50 20<5 25 55 75> -10 20<15 25 55 65>
-VStem: 15 20<-90 -70 -10 10> 25 30<-70 -50 -30 -10> 45 20<-90 -70 -10 10>
+HStem: -90 20<10 20 50 60> -50 20<0 20 50 70> -10 20<10 20 50 60>
+VStem: 10 20<-90 -70 -10 10> 20 30<-70 -50 -30 -10> 40 20<-90 -70 -10 10>
 LayerCount: 2
 Fore
 SplineSet
-25 -30 m 1
- 25 -10 l 1xe8
- 15 -10 l 1
- 15 10 l 1
- 35 10 l 1
- 35 -10 l 1
- 45 -10 l 1
- 45 10 l 1
- 65 10 l 1
- 65 -10 l 1xf4
- 55 -10 l 1
- 55 -30 l 1
- 25 -30 l 1
+20 -30 m 5
+ 20 -10 l 5xe8
+ 10 -10 l 5
+ 10 10 l 5
+ 30 10 l 5
+ 30 -10 l 5
+ 40 -10 l 5
+ 40 10 l 5
+ 60 10 l 5
+ 60 -10 l 5xf4
+ 50 -10 l 5
+ 50 -30 l 5
+ 20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE02B
@@ -12036,7 +11605,6 @@ SplineSet
  70 -30 l 1
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE02C
@@ -12046,8 +11614,6 @@ Flags: HW
 HStem: -150 20<20 30> -110 40<20 30>
 VStem: 20 20<-150 -130> 30 20<-130 -110>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE02D
@@ -12064,7 +11630,6 @@ SplineSet
  70 -10 l 1
  70 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE02E
@@ -12074,8 +11639,6 @@ Flags: HW
 HStem: -110 40<20 50>
 VStem: 20 30<-110 -70>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE02F
@@ -12099,7 +11662,6 @@ SplineSet
  50 -30 l 1
  30 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE030
@@ -12130,7 +11692,6 @@ SplineSet
  50 -30 l 25
  50 50 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE031
@@ -12154,7 +11715,6 @@ SplineSet
  50 70 l 1
  50 -30 l 1xb0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE032
@@ -12188,7 +11748,6 @@ SplineSet
  50 -30 l 1x1080
  30 -30 l 5x9080
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE033
@@ -12218,7 +11777,6 @@ SplineSet
  60 -30 l 1
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE034
@@ -12238,10 +11796,9 @@ SplineSet
 40 30 m 1
  60 30 l 1
  60 -30 l 9
- 39.9998550415 -30 l 25
+ 40 -30 l 25
  40 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE035
@@ -12263,7 +11820,6 @@ SplineSet
  60 -30 l 1x2e
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE036
@@ -12299,7 +11855,6 @@ SplineSet
  0 -30 l 25
  0 10 l 5xe8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE037
@@ -12327,7 +11882,6 @@ SplineSet
  50 -30 l 1xc8
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE038
@@ -12361,7 +11915,6 @@ SplineSet
  30 -10 l 25
  40 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE039
@@ -12387,7 +11940,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03A
@@ -12405,7 +11957,6 @@ SplineSet
  50 50 l 1
  50 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03B
@@ -12423,7 +11974,6 @@ SplineSet
  50 50 l 1
  50 10 l 1xe8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03C
@@ -12457,7 +12007,6 @@ SplineSet
  30 -30 l 1x1440
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03D
@@ -12468,12 +12017,11 @@ LayerCount: 2
 Fore
 SplineSet
 70 -10 m 1
- 0 -9.671875 l 1
- 0 10.328125 l 1
+ 0 -10 l 1
+ 0 10 l 1
  70 10 l 1
  70 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03E
@@ -12507,7 +12055,6 @@ SplineSet
  70 -30 l 1x0a04
  50 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE03F
@@ -12541,7 +12088,6 @@ SplineSet
  60 50 l 1
  60 10 l 1xe1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE040
@@ -12566,14 +12112,13 @@ SplineSet
  70 -30 l 25
  50 -30 l 25
  50 -10 l 25
- 39.9998550415 -10 l 25
- 39.9998550415 -30 l 25
+ 40 -10 l 25
+ 40 -30 l 25
  30 -30 l 25
  30 0 l 25
  50 0 l 25
  50 50 l 29
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE041
@@ -12603,7 +12148,6 @@ SplineSet
  0 -30 l 1
  0 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE042
@@ -12630,7 +12174,6 @@ SplineSet
  20 -10 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE043
@@ -12656,7 +12199,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE044
@@ -12684,7 +12226,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE045
@@ -12706,7 +12247,6 @@ SplineSet
  60 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE046
@@ -12728,7 +12268,6 @@ SplineSet
  0 -30 l 25
  0 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE047
@@ -12754,7 +12293,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE048
@@ -12776,7 +12314,6 @@ SplineSet
  70 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE049
@@ -12798,7 +12335,6 @@ SplineSet
  40 -30 l 5
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE04A
@@ -12816,7 +12352,6 @@ SplineSet
  70 -30 l 5x78
  50 -30 l 5xb8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE04B
@@ -12844,7 +12379,6 @@ SplineSet
  50 -30 l 1xf4
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE04C
@@ -12862,7 +12396,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE04D
@@ -12896,7 +12429,6 @@ SplineSet
  70 70 l 1
  70 -30 l 1xbc
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE04E
@@ -12924,7 +12456,6 @@ SplineSet
  70 -30 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE04F
@@ -12950,7 +12481,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE050
@@ -12977,7 +12507,6 @@ SplineSet
  20 -10 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE051
@@ -13003,7 +12532,6 @@ SplineSet
  0 -30 l 25
  0 50 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE052
@@ -13030,7 +12558,6 @@ SplineSet
  20 -10 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE053
@@ -13062,7 +12589,6 @@ SplineSet
  50 -30 l 1
  20 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE054
@@ -13084,7 +12610,6 @@ SplineSet
  60 70 l 1
  60 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE055
@@ -13107,13 +12632,12 @@ SplineSet
  50 -30 l 25
  50 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE056
 Encoding: 57430 57430 468
 Width: 80
-Flags: W
+Flags: HW
 HStem: -110 20<20 50> 30 40G<0 20 50 70>
 VStem: 0 20<-90 70> 50 20<-90 70>
 LayerCount: 2
@@ -13130,7 +12654,6 @@ SplineSet
  50 -30 l 25
  50 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE057
@@ -13149,7 +12672,7 @@ SplineSet
  0 -30 l 1
 30 10 m 1
  40 10 l 9
- 39.9998550415 -30 l 25
+ 40 -30 l 25
  30 -30 l 25
  30 10 l 1
 50 70 m 1
@@ -13158,7 +12681,6 @@ SplineSet
  50 -30 l 25
  50 70 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE058
@@ -13190,7 +12712,6 @@ SplineSet
  20 10 l 1
  10 10 l 1x68
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE059
@@ -13216,7 +12737,6 @@ SplineSet
  50 -30 l 1
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05A
@@ -13242,7 +12762,6 @@ SplineSet
  50 -30 l 1
  30 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05B
@@ -13262,7 +12781,6 @@ SplineSet
  40 -30 l 1
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05C
@@ -13288,7 +12806,6 @@ SplineSet
  40 -30 l 1xc8
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05D
@@ -13308,7 +12825,6 @@ SplineSet
  50 -30 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05E
@@ -13338,7 +12854,6 @@ SplineSet
  70 50 l 1
  70 30 l 1x44
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE05F
@@ -13347,8 +12862,6 @@ Width: 80
 Flags: HW
 HStem: -190 20<0 80>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE060
@@ -13372,7 +12885,6 @@ SplineSet
  60 50 l 1
  60 30 l 1xa8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE061
@@ -13394,7 +12906,6 @@ SplineSet
  70 -30 l 1xbc
  50 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE062
@@ -13420,7 +12931,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE063
@@ -13446,7 +12956,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE064
@@ -13472,7 +12981,6 @@ SplineSet
  20 -30 l 5
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE065
@@ -13498,7 +13006,6 @@ SplineSet
  0 -30 l 25
  0 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE066
@@ -13524,7 +13031,6 @@ SplineSet
  70 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE067
@@ -13548,7 +13054,6 @@ SplineSet
  50 -30 l 25
  50 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE068
@@ -13574,7 +13079,6 @@ SplineSet
  70 10 l 1
  70 -30 l 1xd8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE069
@@ -13599,7 +13103,6 @@ SplineSet
  50 -30 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE06A
@@ -13624,7 +13127,6 @@ SplineSet
  60 -30 l 1
  40 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE06B
@@ -13651,7 +13153,6 @@ SplineSet
  40 -30 l 1
  40 -10 l 1xec
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE06C
@@ -13671,7 +13172,6 @@ SplineSet
  50 -30 l 1
  30 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE06D
@@ -13699,7 +13199,6 @@ SplineSet
  70 10 l 1
  70 -30 l 5
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE06E
@@ -13723,7 +13222,6 @@ SplineSet
  70 10 l 1
  70 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE06F
@@ -13749,7 +13247,6 @@ SplineSet
  50 -30 l 25
  50 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE070
@@ -13773,7 +13270,6 @@ SplineSet
  20 -30 l 1
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE071
@@ -13797,7 +13293,6 @@ SplineSet
  20 -30 l 25
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE072
@@ -13823,7 +13318,6 @@ SplineSet
  30 -30 l 1
  0 -30 l 5
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE073
@@ -13845,7 +13339,6 @@ SplineSet
  20 -30 l 1x2e
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE074
@@ -13871,7 +13364,6 @@ SplineSet
  30 -30 l 1
  10 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE075
@@ -13894,13 +13386,12 @@ SplineSet
  50 -30 l 25
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE076
 Encoding: 57462 57462 500
 Width: 80
-Flags: W
+Flags: HW
 HStem: -110 20<20 50> -10 40G<0 20 50 70>
 VStem: 0 20<-90 30> 50 20<-90 30>
 LayerCount: 2
@@ -13917,7 +13408,6 @@ SplineSet
  50 -30 l 25
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE077
@@ -13936,7 +13426,7 @@ SplineSet
  0 -30 l 5
 30 10 m 1
  40 10 l 9
- 39.9998550415 -30 l 1
+ 40 -30 l 1
  30 -30 l 25
  30 10 l 1
 50 30 m 1
@@ -13945,7 +13435,6 @@ SplineSet
  50 -30 l 25
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE078
@@ -13971,13 +13460,12 @@ SplineSet
  60 -30 l 1
  10 -30 l 5xac
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE079
 Encoding: 57465 57465 503
 Width: 80
-Flags: W
+Flags: HW
 HStem: -110 20<20 50> -10 40G<0 20 50 70>
 VStem: 0 20<-90 30> 50 20<-90 30>
 LayerCount: 2
@@ -13994,7 +13482,6 @@ SplineSet
  50 -30 l 25
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE07A
@@ -14017,7 +13504,6 @@ SplineSet
  60 -30 l 1
  30 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE07B
@@ -14043,7 +13529,6 @@ SplineSet
  40 -30 l 1xe8
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE07C
@@ -14061,7 +13546,6 @@ SplineSet
  50 130 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE07D
@@ -14087,7 +13571,6 @@ SplineSet
  60 -30 l 1xe4
  40 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE07E
@@ -14125,7 +13608,6 @@ SplineSet
  80 70 l 1x2280
  80 30 l 1x23
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A1
@@ -14143,7 +13625,6 @@ SplineSet
  50 10 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A2
@@ -14173,7 +13654,6 @@ SplineSet
  30 -30 l 5
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A3
@@ -14203,7 +13683,6 @@ SplineSet
  60 -30 l 1
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A4
@@ -14238,7 +13717,6 @@ SplineSet
  10 -30 l 1
 10 -30 m 1049
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A5
@@ -14268,7 +13746,6 @@ SplineSet
  70 -30 l 1x7a
  10 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A6
@@ -14286,7 +13763,6 @@ SplineSet
  50 70 l 1
  50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A7
@@ -14318,7 +13794,6 @@ SplineSet
  60 -30 l 1x0820
  20 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A8
@@ -14341,7 +13816,6 @@ SplineSet
  30 90 l 1
  30 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0A9
@@ -14385,7 +13859,6 @@ SplineSet
  30 10 l 1x0420
  30 30 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE0AA
@@ -14418,7 +13891,6 @@ SplineSet
  30 -10 l 1
  50 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0AB
@@ -14441,7 +13913,6 @@ SplineSet
  40 -30 l 1x0480
  20 -30 l 5x2080
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0AC
@@ -14461,7 +13932,6 @@ SplineSet
  70 10 l 1
  70 -30 l 5xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0AD
@@ -14478,7 +13948,6 @@ SplineSet
  70 10 l 1
  70 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0AE
@@ -14520,7 +13989,6 @@ SplineSet
  0 -30 l 25
  0 50 l 1x4180
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE0AF
@@ -14537,7 +14005,6 @@ SplineSet
  80 130 l 1
  80 110 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B0
@@ -14568,7 +14035,6 @@ SplineSet
  30 30 l 1
  50 30 l 1xb8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B1
@@ -14594,7 +14060,6 @@ SplineSet
  70 10 l 1
  70 -10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B2
@@ -14626,7 +14091,6 @@ SplineSet
  60 -10 l 1
  60 -30 l 1x42
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B3
@@ -14660,7 +14124,6 @@ SplineSet
  60 10 l 1
  60 -10 l 1x51
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B4
@@ -14684,7 +14147,6 @@ SplineSet
  60 110 l 1
  60 90 l 1xa8
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B5
@@ -14707,7 +14169,6 @@ SplineSet
  50 -30 l 1
  50 30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B6
@@ -14731,25 +14192,23 @@ SplineSet
  60 -30 l 25
  0 -30 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B7
 Encoding: 57527 57527 531
 Width: 80
-Flags: HW
-HStem: -30 40<25 55>
-VStem: 25 30<-30 10>
+Flags: HWO
+HStem: -30 40<20 50>
+VStem: 20 30<-30 10>
 LayerCount: 2
 Fore
 SplineSet
-55 -30 m 1
- 25 -30 l 1
- 25 10 l 1
- 55 10 l 1
- 55 -30 l 1
+50 -30 m 1
+ 20 -30 l 1
+ 20 10 l 1
+ 50 10 l 1
+ 50 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0B8
@@ -14759,8 +14218,6 @@ Flags: HW
 HStem: -170 20<20 40> -150 20<50 60> -130 20<30 40>
 VStem: 30 20<-130 -110> 40 20<-150 -130>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE0B9
@@ -14782,7 +14239,6 @@ SplineSet
  50 70 l 1
  50 -30 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0BA
@@ -14813,7 +14269,6 @@ SplineSet
  30 -10 l 1
  50 -10 l 1xdc
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0BB
@@ -14836,7 +14291,6 @@ SplineSet
  20 -30 l 1x22
  0 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE0BC
@@ -14872,16 +14326,15 @@ SplineSet
  50 -30 l 25
  30 -30 l 25
  30 -10 l 25
- 39.9998550415 -10 l 25
+ 40 -10 l 25
  40 10 l 5x0824
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE0BD
 Encoding: 57533 57533 537
 Width: 80
-Flags: W
+Flags: HW
 HStem: -110 20<50 60> -90 40<10 20> -90 20<0 10> -70 40<20 30 50 60> -30 40<40 50> -10 40<50 60> 10 40<60 70> 30 20<70 80> 50 20<0 10>
 VStem: 0 20<-90 -70> 10 20<-70 -50 -10 50 70 90> 20 20<-50 -30> 30 20<-90 -70 -30 -10> 40 20<-10 10> 50 20<10 30> 60 20<-130 -110 -90 -70 30 50>
 LayerCount: 2
@@ -14911,10 +14364,9 @@ SplineSet
  50 -30 l 25
  30 -30 l 25
  30 -10 l 25
- 39.9998550415 -10 l 25
+ 40 -10 l 25
  40 10 l 5x0824
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE0BE
@@ -14965,7 +14417,6 @@ SplineSet
  30 -10 l 1x0488
  40 -10 l 1x0484
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: uniE0BF
@@ -14983,18 +14434,15 @@ SplineSet
  50 10 l 1
  50 -30 l 1x32
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE120
 Encoding: 57632 57632 540
 Width: 80
-Flags: W
+Flags: HW
 HStem: 0 20<20 40> 50 30<10 20 40 50> 70 20G<20 40>
 VStem: 10 40<50 80> 20 20<0 20 30 50 80 90>
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniE121
@@ -15055,7 +14503,7 @@ SplineSet
  30 130 l 1
  30 110 l 1
  40 110 l 9
- 39.9998550415 130 l 25
+ 40 130 l 25
  60 130 l 25
  60 110 l 1
 EndSplineSet
@@ -15229,28 +14677,28 @@ StartChar: uniE12A
 Encoding: 57642 57642 550
 Width: 80
 Flags: HW
-HStem: 70 20<15 25 55 65> 110 20<5 25 55 75> 150 20<15 25 55 65>
-VStem: 15 20<70 90 150 170> 25 30<90 110 130 150> 45 20<70 90 150 170>
+HStem: 70 20<10 20 50 60> 110 20<0 20 50 70> 150 20<10 20 50 60>
+VStem: 10 20<70 90 150 170> 20 30<90 110 130 150> 40 20<70 90 150 170>
 LayerCount: 2
 Fore
 SplineSet
-75 130 m 5
- 75 110 l 1xe8
- 55 110 l 1
- 55 90 l 1xe8
- 65 90 l 1
- 65 70 l 1
- 45 70 l 1
- 45 90 l 1
- 35 90 l 1
- 35 70 l 1
- 15 70 l 1
- 15 90 l 1xf4
- 25 90 l 1
- 25 110 l 1
- 5 110 l 1
- 5 130 l 1
- 75 130 l 5
+70 130 m 5
+ 70 110 l 5xe8
+ 50 110 l 5
+ 50 90 l 5xe8
+ 60 90 l 5
+ 60 70 l 5
+ 40 70 l 5
+ 40 90 l 5
+ 30 90 l 5
+ 30 70 l 5
+ 10 70 l 5
+ 10 90 l 5xf4
+ 20 90 l 5
+ 20 110 l 5
+ 0 110 l 5
+ 0 130 l 5
+ 70 130 l 5
 EndSplineSet
 EndChar
 
@@ -15292,7 +14740,6 @@ SplineSet
  50 90 l 1
  50 30 l 1xd0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE12D
@@ -15318,7 +14765,6 @@ SplineSet
  50 90 l 1
  50 50 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE12F
@@ -15559,10 +15005,10 @@ SplineSet
  0 130 l 1x42
  20 130 l 1
  20 70 l 1
- 50 70.0000203451 l 1
+ 50 70 l 1
  50 110 l 1
  40 110 l 25
- 39.9998550415 130 l 1
+ 40 130 l 1
  70 130 l 1
  70 70 l 1x4880
 70 130 m 1049
@@ -15798,7 +15244,7 @@ SplineSet
  0 50 l 9
  0 130 l 1
  20 130 l 25
- 20 70.0000203451 l 1
+ 20 70 l 1
  50 70 l 25
  50 130 l 1
  70 130 l 1
@@ -16076,8 +15522,8 @@ SplineSet
  70 50 l 1xbc
  50 50 l 9
  50 110 l 25
- 39.9998550415 110 l 25
- 39.9998550415 130 l 25
+ 40 110 l 25
+ 40 130 l 25
  70 130 l 5
 EndSplineSet
 EndChar
@@ -16170,7 +15616,7 @@ SplineSet
  50 50 l 1
  50 110 l 1xf4
  40 110 l 9
- 39.9998550415 130 l 1
+ 40 130 l 1
  60 130 l 25
  60 110 l 1xf8
 20 130 m 1
@@ -16463,7 +15909,6 @@ SplineSet
  80 -10 l 1
  80 -30 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE160
@@ -16765,7 +16210,7 @@ SplineSet
 40 70 m 1
  30 70 l 9
  30 130 l 25
- 39.9998550415 130 l 25
+ 40 130 l 25
  40 70 l 1
 20 50 m 1
  0 50 l 9
@@ -17548,16 +16993,16 @@ SplineSet
  10 130 l 25
  10 90 l 25
  20 90 l 25
- 20 70.0000203451 l 25
- 60 70.0000203451 l 1
+ 20 70 l 25
+ 60 70 l 1
  60 90 l 25
  70 90 l 1
  70 130 l 25
  80 130 l 1
- 80 70.0000203451 l 1
+ 80 70 l 1
  70 70 l 25
- 70 50.2083333333 l 1
- 10 50.2080078125 l 1
+ 70 50 l 1
+ 10 50 l 1
  10 70 l 1
  0 70 l 1
  0 130 l 1
@@ -17717,7 +17162,6 @@ SplineSet
  60 30 l 1
  60 10 l 1x48
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE197
@@ -17877,7 +17321,7 @@ EndChar
 StartChar: uniE19C
 Encoding: 57756 57756 664
 Width: 80
-Flags: W
+Flags: HW
 HStem: 50 20<50 60> 70 40<10 20> 70 20<0 10> 90 40<20 30 50 60> 130 40<40 50> 150 40<50 60> 170 40<60 70> 190 20<70 80> 210 20<0 10>
 VStem: 0 20<70 90> 10 20<90 110 150 210 230 250> 20 20<110 130> 30 20<70 90 130 150> 40 20<150 170> 50 20<170 190> 60 20<30 50 70 90 190 210>
 LayerCount: 2
@@ -17919,7 +17363,7 @@ EndChar
 StartChar: uniE19D
 Encoding: 57757 57757 665
 Width: 80
-Flags: HWO
+Flags: HW
 HStem: -10 20<30 50> 10 40<10 20 60 70> 70 40<40 50> 130 40<30 50>
 VStem: 10 20<10 50> 20 20<50 70> 30 20<70 110 130 170> 50 20<10 50>
 LayerCount: 2
