@@ -17,7 +17,7 @@ An open source terminal font for BBSes and general terminal usage! This font is 
 This font is licenced under the SIL Open Font Licence v1.1 - Contributions and fixes are welcome!
 
 <p align="center">
-    <a href="https://github.com/AndrewMontagne/TeleSys/releases">
+    <a href="https://github.com/AndrewMontagne/TeleSys/releases/latest">
         <img src="download.png">
     </a>
 </p>
