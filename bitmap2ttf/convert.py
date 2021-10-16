@@ -1,4 +1,5 @@
 # licenced GPL v2
+# Copyright (c) 2021 Andrew O'Rourke <andrew@montagne.uk>
 # Copyright (c) 2010 Kyle Keen
 # Copyright (c) 2011-2019 Alistair Buxton <a.j.buxton@gmail.com>
 
@@ -23,7 +24,7 @@ from PIL import ImageOps
 
 from tqdm import tqdm
 
-from .outliner import outliner
+from outliner import outliner
 
 
 def xml_wrap(tag, inner, **kwargs):
@@ -50,21 +51,20 @@ def path_to_svg(polys, xdim, ydim, em, par):
     ])
 
 
-def convert(glyphs, ascent, descent, name, par=1, keep=False):
+def convert(glyphs, ascent, descent, name, ttf, weight, copyright, version, par=1, keep=False):
 
     em = 1000
     scale = em / (ascent + descent)
     print(ascent, descent)
-    ttf = name
     path = tempfile.mkdtemp()
 
     pe = open(os.path.join(path, ttf+'.pe'), 'w')
     pe.write('New()\n')
-    pe.write('SetFontNames("%s", "%s", "%s")\n' % (name, name, name))
+    pe.write('SetFontNames("%s", "%s", "%s", "%s", "%s", "%s")\n' % (name, name, name, weight, copyright, version))
     pe.write('SetTTFName(0x409, 1, "%s")\n' % name)
     pe.write('SetTTFName(0x409, 2, "Medium")\n')
     pe.write('SetTTFName(0x409, 4, "%s")\n' % name)
-    pe.write('SetTTFName(0x409, 5, "1.0")\n')
+    pe.write('SetTTFName(0x409, 5, "%s")\n' % version)
     pe.write('SetTTFName(0x409, 6, "%s")\n' % name)
     pe.write('ScaleToEm(%d, %d)\n' % (int(ascent*scale), int(descent*scale)))
     pe.write('Reencode("unicodefull")\n')
@@ -98,19 +98,23 @@ def convert(glyphs, ascent, descent, name, par=1, keep=False):
 
 
 def converter(f):
-    @click.argument('ttf', type=click.Path(exists=False), required=True)
+    @click.option('-t', '--ttf', type=click.Path(exists=False), required=True, help="Name of the output file")
+    @click.option('-n', '--name', type=str, required=True, help="The actual name of the font face")
+    @click.option('-w', '--weight', type=str, default='Medium', help="The weight of the font")
+    @click.option('-c', '--copyright', type=str, required=True, help="The copyright string of the font")
+    @click.option('-v', '--version', type=str, default='0.0.1', help="The version string of the font")
     @click.option('-k', '--keep', is_flag=True, help='Keep intermediate files.')
     @click.option('-a', '--ascent', type=int, default=None, help='Override input ascent.')
     @click.option('-d', '--descent', type=int, default=None, help='Override input descent.')
     @click.option('-x', '--xscale', type=float, default=1.0, help='X scale.')
     @click.option('-y', '--yscale', type=float, default=1.0, help='Y scale.')
     @wraps(f)
-    def _convert(ttf, keep, ascent, descent, xscale, yscale, *args, **kwargs):
+    def _convert(ttf, name, weight, copyright, version, keep, ascent, descent, xscale, yscale, *args, **kwargs):
         glyphs, _ascent, _descent = f(*args, **kwargs)
         if ascent is not None:
             _ascent = ascent
         if descent is not None:
             _descent = descent
-        convert(glyphs, _ascent, _descent, ttf, keep=keep, par=xscale/yscale)
+        convert(glyphs, _ascent, _descent, name, ttf, weight, copyright, version, keep=keep, par=xscale/yscale)
     return _convert
 

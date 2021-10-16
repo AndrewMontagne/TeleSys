@@ -1,5 +1,0 @@
-language: minimal
-install:
-  - sudo apt-get -y install fontforge-nox
-script:
-  - fontforge -script generate.pe

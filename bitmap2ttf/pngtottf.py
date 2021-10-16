@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# * Copyright 2021 Andrew O'Rourke
+# * Copyright 2021 Andrew O'Rourke <andrew@montagne.uk>
 # * Copyright 2011 Alistair Buxton <a.j.buxton@gmail.com>
 # *
 # * License: This program is free software; you can redistribute it and/or
@@ -13,7 +13,7 @@
 
 import click, os, sys, re
 from PIL import Image
-from bitmap2ttf.convert import converter
+from convert import converter
 
 
 class PngFontFileUnicode():
@@ -66,8 +66,8 @@ class PngFontFileUnicode():
 
 
 @click.command()
-@click.argument('width', type=click.INT, required=True, nargs=1)
-@click.argument('height', type=click.INT, required=True, nargs=1)
+@click.option('--width', type=click.INT, required=True, help="The width of the glyphs")
+@click.option('--height', type=click.INT, required=True, help="The height of the glyphs")
 @click.argument('pngs', type=click.File('rb'), required=True, nargs=-1)
 @converter
 def pngtottf(width:int, height:int, pngs):
