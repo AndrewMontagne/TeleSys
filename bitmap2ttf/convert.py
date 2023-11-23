@@ -62,7 +62,7 @@ def convert(glyphs, ascent, descent, name, ttf, weight, copyright, version, par=
     pe.write('New()\n')
     pe.write('SetFontNames("%s", "%s", "%s", "%s", "%s", "%s")\n' % (name, name, name, weight, copyright, version))
     pe.write('SetTTFName(0x409, 1, "%s")\n' % name)
-    pe.write('SetTTFName(0x409, 2, "Medium")\n')
+    pe.write('SetTTFName(0x409, 2, "%s")\n' % weight)
     pe.write('SetTTFName(0x409, 4, "%s")\n' % name)
     pe.write('SetTTFName(0x409, 5, "%s")\n' % version)
     pe.write('SetTTFName(0x409, 6, "%s")\n' % name)
