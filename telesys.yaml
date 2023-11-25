@@ -1,0 +1,31 @@
+name: TeleSys
+filename: TeleSys.ttf
+description: 8x16px Open Source Terminal Font
+weight: Medium
+width: 8
+height: 16
+version: 2.0.0
+license: SIL Open Font Licence 1.1
+licence_url: http://scripts.sil.org/OFL
+vendor:
+vendor_url:
+designer:
+designer_url:
+sample_text: The quick blue fogs jumped over the lazy catte
+
+glyphs:
+- kind: simple
+  start: 0x20
+  file: ascii_extended.png
+- kind: simple
+  start: 0x2010
+  file: general_punctuation.png
+- kind: simple
+  start: 0x2500
+  file: drawing_characters.png
+- kind: simple
+  start: 0x2800
+  file: braille.png
+- kind: simple
+  start: 0x1FB00
+  file: legacy_computing.png

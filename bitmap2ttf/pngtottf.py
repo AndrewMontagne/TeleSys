@@ -13,8 +13,8 @@
 
 import click, os, sys, re
 from PIL import Image
-from convert import converter
-
+from convert import convert
+import yaml
 
 class PngFontFileUnicode():
 
@@ -23,10 +23,11 @@ class PngFontFileUnicode():
     font_width: int
     start_index: int
 
-    def __init__(self, input: click.File, font_width: int, font_height: int):
+    def __init__(self, input: click.File, start_index, font_width: int, font_height: int):
         self.image = Image.open(input).convert('RGB')
         self.font_width = font_width
         self.font_height = font_height
+        self.start_index = start_index
 
         image_width, image_height = self.image.size
 
@@ -35,8 +36,6 @@ class PngFontFileUnicode():
 
         if (image_width % font_width != 0):
             raise Exception("Image width for %s is not divisible by the font height!" % input.name)
-
-        self.start_index = int(os.path.splitext(input.name)[0], 0)
 
     def process(self, glyph_map: dict):
         image_width, image_height = self.image.size
@@ -63,13 +62,6 @@ class PngFontFileUnicode():
                 glyph_map[index] = glyph
 
 
-
-
-@click.command()
-@click.option('--width', type=click.INT, required=True, help="The width of the glyphs")
-@click.option('--height', type=click.INT, required=True, help="The height of the glyphs")
-@click.argument('pngs', type=click.File('rb'), required=True, nargs=-1)
-@converter
 def pngtottf(width:int, height:int, pngs):
     glyph_map = {}
 
@@ -80,5 +72,45 @@ def pngtottf(width:int, height:int, pngs):
     return glyph_map, height, 0
 
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(pngtottf())
+    if len(sys.argv) <= 1:
+        print(f"Usage: {sys.argv[0]} font.yaml")
+        sys.exit(1)
+
+    with open(sys.argv[1]) as yaml_stream:
+        config = yaml.safe_load(yaml_stream)
+
+    try:
+        name = config["name"]
+        width = config["width"]
+        height = config["height"]
+        glyph_config = config["glyphs"]
+    except KeyError as e:
+        print(f"Missing required config entry: {e.args[0]}")
+        sys.exit(2)
+
+    version = config.get("version", "0.0.1")
+    weight = config.get("weight", "Medium")
+    filename = config.get("filename", f"{name} {weight}.ttf")
+
+    license = config.get("license", "Public Domain")
+    license_url = config.get("license_url", None)
+
+    designer = config.get("designer", "Anonymous")
+    designer_url = config.get("designer_url", None)
+
+    vendor = config.get("vendor", None)
+    vendor_url = config.get("vendor_url", None)
+
+    sample_text = config.get("sample_text", None)
+
+    
+
+    glyphs = {}
+
+    for glyph_page in glyph_config:
+        codepage = PngFontFileUnicode(glyph_page["file"], glyph_page["start"], width, height)
+        codepage.process(glyphs)
+
+    convert(glyphs, height, 0, name, filename, weight, license, version)
+
+    
